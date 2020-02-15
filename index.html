@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="home">
+	{% include header.html %}
+	{% include intro.html %}
+	<hr>
+
+	<section>
+		<h2> Blog Posts </h2>
+		<ul class="post-list">
+			{% for post in site.posts %}
+			<li>
+				<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
+				<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
+			</li>
+			{% endfor %}
+		</ul>
+	</section>
+</div>

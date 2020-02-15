@@ -1,0 +1,22 @@
+# Site settings
+title: "Journal.Bar"
+description: "A personal blog for self-quantification via Beeminder. Powered by Jekyll. "
+permalink: /:title/
+baseurl: ""
+url: ""
+author: "Brennan Kenneth Brown"
+
+# Build settings
+kramdown:
+  input: GFM
+permalink: pretty
+
+# Third-party services
+# just leave empty to disable it
+google_analytics: UA-54919711-3
+disqus_shortname: journal-bar 
+
+plugins:
+  - jekyll-sitemap
+
+exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
