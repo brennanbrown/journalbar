@@ -10,6 +10,7 @@ I’ve decided to begin this meta-accountability experiement, where I’ll repor
 * [The Tao of Bees: How I use Beeminder](https://blog.beeminder.com/tao/)
 * [The Sting of Work: How I Use Beeminder, Part Two](https://blog.beeminder.com/tao2/)
 * [Goal Failure: A post-capitalist critique on boiling frogs, minimum-happiness, harmful-easy things, and lists.](https://medium.com/@brennanbrown/goal-failure-bc3a39a0f418)
+* [Goal Success: Getting back on your horse, no matter how many times you’ve fallen off.](https://medium.com/@brennanbrown/5-good-goals-ideas-and-why-86caddb33e70)
 
 ## Credit
 
