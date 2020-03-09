@@ -18,4 +18,3 @@ This is an idea I'm borrowing from [Nathan Arthur](http://www.nathanarthur.com/f
 - I met goal requirements, but did not enter the data on Beeminder on time (if manual entry).
 - I become severely ill to the extent I cannot perform the task.
 - I have derailed two or more systems within the same day. (To avoid compound mistakes.)
-- 
