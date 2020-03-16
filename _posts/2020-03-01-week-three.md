@@ -39,7 +39,7 @@ Actually, scratch that. I'm writing this *late* because I found out last night t
 
 ## New Systems
 
-* **/gratitude:** This week, I re-introduced the gratitude system, which has a great ratio of effort and value. [This video](https://youtu.be/WPPPFqsECz0) by Kurzgesagt is a great explanation for why gratitude is an antidote  to dissatisfaction in general. 
+* [**/gratitude:**](https://beeminder.com/brennanbrown/gratitude) This week, I re-introduced the gratitude system, which has a great ratio of effort and value. [This video](https://youtu.be/WPPPFqsECz0) by Kurzgesagt is a great explanation for why gratitude is an antidote  to dissatisfaction in general. 
 
 ## Pesky Obstacles
 
