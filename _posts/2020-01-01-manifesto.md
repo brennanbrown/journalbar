@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Personal Manifesto
+title: "My Personal Manifesto"
 tags: [Rulebook, Meta]
 author: Brennan Brown
 permalink: manifesto

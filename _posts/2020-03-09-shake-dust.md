@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Week Four: Shake the Dust"
+title: "Four: Shake the Dust"
 tags: [fourth-week]
 author: Brennan Brown
-permalink: week-4
+permalink: shake
 comment: true
 ---
 

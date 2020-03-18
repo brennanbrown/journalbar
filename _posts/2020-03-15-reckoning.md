@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Week Five: A Reckoning"
+title: "Five: A Reckoning"
 tags: [fifth-week]
 author: Brennan Brown
-permalink: week-5
+permalink: reckoning
 comment: true
 ---
 
-**Week Five!** As everybody already knows, everything has changed this week. The spread of COVID-19 has caused a lot of infrastructure to shut down in an attempt to flatten the curve, epidemiological speaking. My local school board has just decided a few hours ago to completely shut down all K-12 indefinitely.
+**Week Five!** As everybody already knows, everything has changed this week. The spread of COVID-19 has caused a lot of infrastructure to shut down in an attempt to flatten the curve, epidemiologically speaking. My local school board has just decided a few hours ago to completely shut down all K-12 indefinitely.
 
 In times like these, it's easy to forget the long-term and meaningful. It's easy to become short-sighted and give up on what you've been working on--your principles--for seemingly the sake of survival. The contrary is in fact true, and it is times like these more than ever that you need to stick to your convictions. It is easy to hold conviction and say you are a person of character when things are easy.
 

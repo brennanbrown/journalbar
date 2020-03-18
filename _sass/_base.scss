@@ -101,6 +101,9 @@ h6 {
 h1 {
     font-size: 2em;
 }
+#posts {
+    text-decoration: underline #faff80;
+}
 /**
  * Links
  */
@@ -117,9 +120,9 @@ a {
 blockquote {
     color: $grey-color-dark;
     padding-left: $spacing-unit / 2;
-    border-left: 2px solid $grey-color-light;
+    border-left: 4px solid $grey-color-light;
     font-style: italic;
-    font-size: $small-font-size;
+    font-size: 1.5rem;
 
     > :last-child {
         margin-bottom: 0;

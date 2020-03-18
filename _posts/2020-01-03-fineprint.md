@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Universal Fineprint for Goals
+title: "Fineprint for Goals"
 tags: [Beeminder, Meta]
 author: Brennan Brown
-permalink: beeminder-fineprint
+permalink: fineprint
 comment: true
 ---
 

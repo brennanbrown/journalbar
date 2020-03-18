@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Week Three: Holistic Fragility"
+title: "Three: Holistic Fragility"
 tags: [third-week]
 author: Brennan Brown
-permalink: week-3
+permalink: holistic-fragility
 comment: true
 ---
 

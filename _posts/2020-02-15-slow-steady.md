@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Week One: Slow and Steady"
+title: "One: Slow and Steady"
 tags: [first-week]
 author: Brennan Brown
-permalink: week-1
+permalink: steady
 comment: true
 ---
 
