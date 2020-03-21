@@ -3,7 +3,7 @@ layout: post
 title: "Six: An Action Plan"
 tags: [sixth-week]
 author: Brennan Brown
-permalink: above
+permalink: action-plan
 comment: true
 ---
 
