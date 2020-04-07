@@ -7,19 +7,19 @@ permalink: new-normal
 comment: true
 ---
 
-**Week Seven!** Well, sort of at least. 
+**Week Seven!** Well, sort of at least.
 
 I have been doing a lot of abstract, head-in-the-clouds kind of thinking the past two weeks, and as a consequence I've sort of neglected talking about Beeminder or my systems. I feel as though this is because they are, by design, low-level and practical thinking. The ability to transform high-level into low-level so you actually get things done is tricky, but also incredibly meaningful.
 
 There's something self-defeating about thinking about the future, and lofty accompanying ideas. There's a sort of paralysis that comes with this, and it is difficult to shake myself into getting back into the mundane and practical daily tasks that I ought to be doing.
 
-*Thinking*, no matter how important the issue may be, is not *doing*. This allows my monkey mind to take over as per usual, allowing me to slip out of being intentional with my actions and wander into laziness. 
+*Thinking*, no matter how important the issue may be, is not *doing*. This allows my monkey mind to take over as per usual, allowing me to slip out of being intentional with my actions and wander into laziness.
 
-I have spent a good amount of time and effort into creating a good workspace for myself--so I need to use it. I sincerely do not feel as though it would be anybody's obligation to try and be "productive" during a crisis like this, however I feel privileged enough personally to do so. 
+I have spent a good amount of time and effort into creating a good workspace for myself--so I need to use it. I sincerely do not feel as though it would be anybody's obligation to try and be "productive" during a crisis like this, however I feel privileged enough personally to do so.
 
 Something I've noticed is the paradoxical nature to my way of thinking, perhaps even hypocritical, is how independent and in solitude my work is when my highest-priority values are community and others. I don't really know how to rectify this, as I've yet to really find anybody else that I can do this sort of work with who's on the same *wavelength* as I am, so to speak.
 
-I need to be more strict with myself. It is most apparent now that only I am able to hold myself accountable, however that is actually always the case. Relying on external factors to push me forward will never be a good idea. At the same time, I need to effortlessly throw away all the mistakes and setbacks I've made, as their weight does no good to me. 
+I need to be more strict with myself. It is most apparent now that only I am able to hold myself accountable, however that is actually always the case. Relying on external factors to push me forward will never be a good idea. At the same time, I need to effortlessly throw away all the mistakes and setbacks I've made, as their weight does no good to me.
 
 ## System Review
 
