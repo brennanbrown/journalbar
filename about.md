@@ -15,7 +15,7 @@ With that, I've decided to begin a meta-accountability experiement, where I'll r
 
 ### Biography
 
-Brennan Kenneth Brown is 23-year-old blogger and junior developer from Winnipeg, Manitoba and currently residing in Calgary, Alberta. His main focuses in his writing include self-development, community, and his experiences with programming.  
+Brennan Kenneth Brown is 24-year-old blogger and junior developer from Winnipeg, Manitoba and currently residing in Calgary, Alberta. His main focuses in his writing include self-development, community, and his experiences with programming.  
 
 Brennan also enjoys a variety of creative side-projects, having composed various soundtracks and neo-classical music under the pseudonym [Augustin](https://augustin.bandcamp.com), and has a photography portfolio that can be seen at [Project Qvl](https://qvl.deviantart.com). 
 
