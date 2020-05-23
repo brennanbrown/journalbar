@@ -31,6 +31,8 @@ When I began this Bee Journal in February, I had only 5 habits that I was lookin
 
 ### Things I'm Currently Keeping Track Of:
 
+*(You can view the progress/graphs to all of these **[here](https://beeminder.com/brennanbrown)**.)*
+
 **Writing:**
 
 - **[Writing](https://beeminder.com/brennanbrown/writing)**: This keeps track of each word that I type on [Draft](https://draftin.com), which eventually will become a finished work within one of the following:
