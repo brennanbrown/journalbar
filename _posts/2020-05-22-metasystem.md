@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thirteen: Understanding Metasystem"
+title: "Thirteen: Understanding the Metasystem"
 tags: [thirteenth-week]
 author: Brennan Brown
 permalink: metasystem
