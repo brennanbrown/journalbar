@@ -7,7 +7,7 @@ permalink: hurt-healing
 comment: true
 ---
 
-**Week Fifteen!** This has been an difficult week, full of pain and hurt--and attempts at healing. In my non-coding time I've been figuring out ways to best help the local BIPOC community, I made a small, local [resource list](https://bipoc-resources.ca/), specifically on trying to find some sort of semblance of healing or peace. 
+**Week Fifteen!** This has been an difficult week, full of pain and hurt--and attempts at healing. In my non-coding time I've been figuring out ways to best help the BIPOC community, I helped make a small, local [resource list](https://bipoc-resources.ca/), specifically on trying to find some sort of semblance of healing or peace. 
 
 I think the most difficult part is recognizing that this isn't novel or out of nowhere--only this intensity of response from others. I feel regret not being as involved in activism as I ought to be, particularly being an indigenous person in Canada. 
 
