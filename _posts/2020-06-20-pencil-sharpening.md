@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seventeen: Pencil Sharpening vs. Writing"
+title: "Seventeen: Sharpening vs. Writing"
 tags: [seventeenth-week]
 author: Brennan Brown
 permalink: pencil-sharpening
