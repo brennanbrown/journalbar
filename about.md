@@ -3,7 +3,7 @@ layout: page
 title: About the Author
 ---
 
-<img src="https://i.postimg.cc/B6vM5L8M/Brennan-Brown-1.png" alt="Photo of Brennan" align="left" style="margin: 15px;">
+<img src="https://i.postimg.cc/HLMF4gsN/Brennan-Brown-250.png" alt="Photo of Brennan" align="left" style="margin: 15px;">
 
 ### Purpose
 
