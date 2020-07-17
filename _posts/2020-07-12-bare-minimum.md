@@ -27,10 +27,10 @@ Before jumping into this, there were many zero days where I felt strung-out. Now
 
 That might seem like a silly humblebrag, but it's more of a prelude to a cautionary message I'd like to share. In spite of all the self-help articles that list these kind of things as being important to start doing, and all the aspiring people looking to better themselves with this kinda stuff, I have to say that it doesn't really change how I feel at the end of the day. 
 
-There is no buzzing sense of joy or euphoria when consistently practicing good habits--no deserved dopamine hit^. There is no balanced or equal reaction that you might get from indulging a bad habit, for instance. 
+There is no buzzing sense of joy or euphoria when consistently practicing good habits--no deserved dopamine hit[^1]. There is no balanced or equal reaction that you might get from indulging a bad habit, for instance. 
 
 I suppose I continue doing these things is because I feel as though I *ought* to, and I know there's a vague building foundation towards larger works down the line. I know it's a personal fault for not having something more concrete in the long-term future I could be telling myself I'm working towards, however.
 
 That all said, I look forward to continuing this, and to keep adding new ideas and systems to keep pushing myself!
 
-(^): There is, of course, a major exception to this: exercise. 
+[^1]: There is, of course, a major exception to this: exercise.
