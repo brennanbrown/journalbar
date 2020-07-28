@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Twenty-Twp: Community Searching"
+title: "Twenty-Two: Community Searching"
 tags: [twenty-two-week]
 author: Brennan Brown
 permalink: community-searching
@@ -12,7 +12,7 @@ comment: true
 
 For instance, it's nice to see that [my writing](https://beeminder.com/brennanbrown/writing) has gone from sporadic large entries to consistent small ones instead. Similarly, I stepped up to the Emerald league on Duolingo in just a week. I've been thinking of adding a Clozemaster system as a supplement. 
 
-Also, a new system that I've introduced in the past few weeks is **[/foodlog](https://beeminder.com/brennanbrown)**, which is a simple manual text-entry where I enter what I've eaten the day with the syntax `Breakfast: X + Y // Lunch: Z + A // Dinner: B + C + D`, etc. I figure that just the act of recording my dietary intake will help improve it.
+Also, a new system that I've introduced in the past few weeks is **[/foodlog](https://beeminder.com/brennanbrown)**, which is a simple manual text-entry where I enter what I've eaten the day with the syntax: `Breakfast: X + Y // Lunch: Z + A // Dinner: B + C + D`, etc. I figure that just the act of recording my dietary intake will help improve it.
 
 I'm also trying to look for a community. Without having the ability to attend networking events (safely, at least) it's a little puzzling still. The internet offers so much in means of opportunities, platforms, weird niche subcultures, etc. But where do you go if you're trying to find people that wanna actually commit to doing meaningful work and have fun doing it? 
 
