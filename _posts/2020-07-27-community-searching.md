@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Twenty-Two: Community Searching"
-tags: [twenty-two-week]
+tags: [twenty-second-week]
 author: Brennan Brown
 permalink: community-searching
 comment: true
