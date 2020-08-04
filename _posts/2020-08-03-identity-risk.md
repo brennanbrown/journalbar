@@ -7,6 +7,8 @@ permalink: identity-risk
 comment: true
 ---
 
+# August 3rd
+
 **Week Twenty-three!** I know I said this entry would be late, but I couldn't help myself. I'm currently in a rather comfortable hotel room that I managed to book last minute as I make my way back to the city and back to work. 
 
 I tried my best to prepare Beeminder accordingly, but I'm afraid that it seems like I found out about my impromptu trip a little too late, and had a handful of derailments occur when I was out in the woods and couldn't do much about them. I feel like that might have to do with me being forgetful about auto-ratcheting overriding breaks, I think? Regardless, I need to plan better.
@@ -15,7 +17,7 @@ Really, I'm not at all used to actually planning time off. I either work really 
 
 It's probably a problem that a lack of progress is so bothersome to me. In full transparency, looking at the flat lines that now encompass all of my beeminders begrudges me. I don't think it's the work itself, but rather the consistency of the work. Perhaps I am moreso wary of my own behaviour of letting the dying off of momentum beget less and less momentum.
 
-Anyways, enough about the minutiae.
+Anyways, enough about the minutiae!
 
 I wanted to thank you for your insights, Adam. I'm glad I take a week to respond and meditate on such helpful advice instead of replying quickly and having it thrown into the ether with the insurmountable amount of other information that I find myself surrounded with.
 
@@ -27,6 +29,8 @@ Specifically, I originally went to college to be a software developer four years
 
 I have realized at this point, whether I like it or not, I am a developer. ¯\_(ツ)_/¯ It's just too much fun to make websites and write out documentation and learn new technologies. Of course I don't think I'm a *good* developer, but I develop.
 
-Second, and I'm sure this can be attributed to my lack of experience and naïve attitude, but I frankly am not worried about being careful. I understand (or at least think I do) the consequences of the openness in open-source, and the weight of dependencies others cause. 
+Second, and I'm sure this can be attributed to my lack of experience and naïve attitude, but I frankly am not worried about being careful. I understand (or at least think I do) the consequences of the openness in open-source, and the weight of dependencies others inevitably cause. Even with worst-case scenarios, time you enjoy wasting is not wasted time.
+
+I sincerely recognize where you're coming from, but these are things that I'm steadfast in, whether that's a good or bad thing.
 
 (PS. Related to Beeminder this time, my girlfriend suggested I refer to my entire group of Beeminder systems as a *Beehive*. I'm really not sure if that's too clever or too cheesy.)
