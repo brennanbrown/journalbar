@@ -23,6 +23,11 @@ I wanted to thank you for your insights, Adam. I'm glad I take a week to respond
 
 It allows me to take the time to look into your work, and I simply have great admiration for what you do. I'm very grateful to get advice from somebody so experienced and I'd like to respond to your thoughts in detail.
 
+<q>If you are interested in FOSS stuff, I would recommend a few things, most of which are applicable to all of life, not just FOSS:</q>
+
+- Be careful about what you tie your identity to. If you define yourself as a developer and then isn’t right for you or the world or it turns bad or just isn’t purposeful anymore, you can spend a lot of valuable time towards something unhelpful.
+- Be careful about others, especially about security. Just because tech and programming can make the world a better place doesn’t mean that it always does, and there are folks out there who aren’t like the programmers at all who will use software in ways the programmers don’t intend. Try to look out for them and stop them from blowing their fingers off.
+
 First and foremost, identity: This is something I have had a reckoning with my whole long life. There are many labels that I associate myself with--be it out of voluntary want, or the realization that there's an inability to escape them. 
 
 Specifically, I originally went to college to be a software developer four years ago. Three years before that is when I first began tinkering with makeshift themes on Tumblr, and installed [Crunchbang!](https://en.wikipedia.org/wiki/CrunchBang_Linux) and began to fall in love with ability to create and destroy just by typing things.
