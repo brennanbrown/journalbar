@@ -56,3 +56,4 @@ Anyways! Let's talk about the bees. Just the bees. That's the entire point of th
 * **[Gratitude](https://beeminder.com/brennanbrown/gratitude)**: I find the longer I go at this, the more creative I have to be, as my one rule is never repeating any gratitudes, but I do think it helps me be more appreciative.
 * **[Duolingo](https://beeminder.com/brennanbrown/duolingo)**: Still stuck in the Emerald League, and only doing around 30XP a day from my previous average of 50XP, I think I'm getting a little fatigued.
 * **[Books](https://beeminder.com/brennanbrown/books)**: Not going very well, as I have gotten back into listening to podcasts instead of audiobooks. I think going on longer walks as per /fitness will help with this though.
+* * **[Photos](https://beeminder.com/brennanbrown/photos)**: Although there isn't much artistic merit to [my Instagram](https://www.instagram.com/untowardings/), it's still been to fun to take pause and really appreciate my surroundings.
