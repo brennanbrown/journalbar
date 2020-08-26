@@ -20,6 +20,7 @@ ul {
     margin: 0;
     padding: 0;
 }
+
 /**
  * Basic styling
  */
@@ -28,9 +29,13 @@ body {
     color: $text-color;
     background-color: $background-color;
 }
-p, li, a {
+
+p,
+li,
+a {
     text-align: justify;
 }
+
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -51,6 +56,7 @@ table,
 ul {
     margin-bottom: $spacing-unit / 2;
 }
+
 /**
  * Images
  */
@@ -58,16 +64,18 @@ img {
     max-width: 100%;
     vertical-align: middle;
 }
+
 /**
  * Figures
  */
-figure > img {
+figure>img {
     display: block;
 }
 
 figcaption {
     font-size: $small-font-size;
 }
+
 /**
  * Lists
  */
@@ -82,11 +90,13 @@ ul {
 }
 
 li {
-     > ol,
-    > ul {
+
+    >ol,
+    >ul {
         margin-bottom: 0;
     }
 }
+
 /**
  * Headings
  */
@@ -98,12 +108,15 @@ h5,
 h6 {
     font-weight: 600;
 }
+
 h1 {
     font-size: 2em;
 }
+
 #posts {
     text-decoration: underline #faff80;
 }
+
 /**
  * Links
  */
@@ -114,6 +127,7 @@ a {
         color: $link-hover;
     }
 }
+
 /**
  * Blockquotes
  */
@@ -128,6 +142,7 @@ blockquote {
         margin-bottom: 0;
     }
 }
+
 /**
  * Quotes
  */
@@ -135,6 +150,7 @@ q {
     background-color: #fcffb3;
     font-size: 1.2em;
 }
+
 /**
  * Time
  */
@@ -142,6 +158,7 @@ time {
     font-family: "Courier New", Courier, monospace;
     margin-right: 10px;
 }
+
 /**
  * Code formatting
  */
@@ -161,7 +178,7 @@ pre {
     overflow-x: auto;
     border: 1px solid $grey-color-light;
 
-    > code {
+    >code {
         border: 0;
         padding-right: 0;
         padding-left: 0;
@@ -169,6 +186,7 @@ pre {
         color: inherit;
     }
 }
+
 /**
  * Table
  */
@@ -196,6 +214,7 @@ td {
     vertical-align: top;
     border-bottom: 1px solid $grey-color-light;
 }
+
 /**
  * Horizontal rule
  */
@@ -204,6 +223,7 @@ hr {
     border-top: 1px solid;
     margin: $spacing-unit auto;
 }
+
 /**
  * Clearfix
  */

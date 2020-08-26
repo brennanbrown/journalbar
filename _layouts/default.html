@@ -1,13 +1,19 @@
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
-  <body>
-    <div class="page-content">
-      {{ content }}
-      <div class="copyright">
-        <p>&copy; {{ site.time | date: '%Y' }} <a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}"><strong>{{ site.title }}</strong></a> ― Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/heiswayi/textlog">Textlog</a>. <br> Created with ❤️ by Brennan K. Brown <br> This website is in no way affiliated, endorsed, or condoned by Beeminder. 
-      </div>
+{% include head.html %}
+
+<body>
+  <div class="page-content">
+    {{ content }}
+    <div class="copyright">
+      <p>&copy; {{ site.time | date: '%Y' }} <a
+          href="{{ '/' | prepend: site.baseurl | prepend: site.url }}"><strong>{{ site.title }}</strong></a> ― Powered
+        by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/heiswayi/textlog">Textlog</a>.
+        <br> Created with ❤️ by Brennan K. Brown <br> This website is in no way affiliated, endorsed, or condoned by
+        Beeminder.
     </div>
-    {% include google_analytics.html %}
-  </body>
+  </div>
+  {% include google_analytics.html %}
+</body>
+
 </html>

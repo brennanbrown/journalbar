@@ -6,24 +6,30 @@
     background-size: 0 100%;
     background-repeat: no-repeat;
     transition: background .5s;
-    &:hover, {
+
+    &:hover {
         background-size: 100% 100%;
     }
+
     &--thin {
         background-image: linear-gradient(to right, black 0, black 100%);
     }
+
     &--thick {
         background-position: 0 -0.1em;
     }
+
     &--offset {
         background-position: 0 0.2em;
         //didn't find another solution than mask the underline shape by a box shadow with the same color than the bg
         box-shadow: inset 0 -.5em 0 0 white;
     }
+
     &--gradient {
         background-position: 0 -0.1em;
         background-image: linear-gradient(to right, yellow 0, lightgreen 100%);
     }
+
     &--reverse {
         background-position: 100% -0.1em;
         transition: background 1s; //yep, that's a long link
@@ -38,9 +44,11 @@
     border-bottom: 1px solid $grey-color-light;
     margin-top: -2rem;
     max-width: $max-width;
+
     p {
-      font-size: $small-font-size;
+        font-size: $small-font-size;
     }
+
     .site-intro {
         font-size: $big-font-size;
     }
@@ -62,17 +70,20 @@
         padding-top: 0.2rem;
         padding-bottom: 0.2rem;
     }
+
     a:hover {
         background-color: #555;
         color: #fcffb3;
     }
 }
+
 /**
  * Navigation
  */
 .site-nav {
     font-size: 1.5em;
 }
+
 /**
  * Page content
  */
@@ -83,17 +94,18 @@
     box-sizing: border-box;
     max-width: $max-width;
 }
+
 /**
  * Pages
  */
 .home {
-    section + section {
+    section+section {
         margin-top: $spacing-unit;
         max-width: $max-width;
     }
 }
 
-.post-list > li {
+.post-list>li {
     margin-bottom: $spacing-unit / 4;
     list-style-type: none;
     margin-left: -2rem;
@@ -111,6 +123,7 @@
         color: $grey-color;
         display: inline-block;
     }
+
     @include media-query($on-palm) {
         time {
             display: block;
@@ -122,6 +135,7 @@
 .tag-title {
     color: $link-color;
 }
+
 /**
  * Posts
  */
@@ -141,11 +155,16 @@
     font-size: $small-font-size;
     font-family: $code-font-family;
     color: $grey-color;
-    a, a:visited {
-      color: $grey-color-dark;
+
+    a,
+    a:visited {
+        color: $grey-color-dark;
     }
+
     .tags {
-        a, a:visited {
+
+        a,
+        a:visited {
             background: $grey-color-light;
             padding: 0.1rem 0.5rem;
         }
@@ -186,14 +205,17 @@
 }
 
 .copyright {
-  margin-top: $spacing-unit;
-  font-size: $small-font-size;
-  font-family: $code-font-family;
-  p {
-    text-align: left;
-    color: $grey-color;
-    a, a:visited {
-      color: $grey-color-dark;
+    margin-top: $spacing-unit;
+    font-size: $small-font-size;
+    font-family: $code-font-family;
+
+    p {
+        text-align: left;
+        color: $grey-color;
+
+        a,
+        a:visited {
+            color: $grey-color-dark;
+        }
     }
-  }
 }

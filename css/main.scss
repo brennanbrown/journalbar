@@ -4,29 +4,40 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: Bookman, "Palatino Linotype", "New Century Schoolbook", "Book Antiqua", Palatino, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-$code-font-family: Inconsolata, Monaco, Consolas, monospace;
-$base-font-size:   16px;
+$base-font-family: Bookman,
+"Palatino Linotype",
+"New Century Schoolbook",
+"Book Antiqua",
+Palatino,
+serif,
+"Apple Color Emoji",
+"Segoe UI Emoji",
+"Segoe UI Symbol";
+$code-font-family: Inconsolata,
+Monaco,
+Consolas,
+monospace;
+$base-font-size: 16px;
 $base-font-weight: 300;
-$small-font-size:  0.975rem;
-$big-font-size:    1.3rem;
+$small-font-size: 0.975rem;
+$big-font-size: 1.3rem;
 $base-line-height: 1.5;
 
-$spacing-unit:     2rem;
-$max-width:        1000px;
+$spacing-unit: 2rem;
+$max-width: 1000px;
 
-$text-color:       #333;
+$text-color: #333;
 $background-color: #fff;
-$link-color:       #3d5787;
-$link-hover:	   #3874e6;
+$link-color: #3d5787;
+$link-hover: #3874e6;
 
-$grey-color:       #888;
+$grey-color: #888;
 $grey-color-light: lighten($grey-color, 25%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color-dark: darken($grey-color, 25%);
 
 // Width of the content area
-$on-palm:          600px;
-$on-:              800px;
+$on-palm: 600px;
+$on-: 800px;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -42,8 +53,7 @@ $on-:              800px;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
+@import "base",
+"layout",
+"syntax-highlighting"
 ;
