@@ -2,24 +2,26 @@
 layout: default
 ---
 <div class="home">
-	{% include header.html %}
-	{% include intro.html %}
-	<hr>
+    {% include header.html %}
+    {% include intro.html %}
+    <hr>
 
-	<section>
-		<h1 id="posts"> Weekly Posts </h1>
-			<!-- https://gist.github.com/tuananh/7432553 -->
-			{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%B %Y'"  %}
-			{% for yearMonth in postsByYearMonth %}
-			<h2>{{ yearMonth.name }}</h2>
-				<ul class="post-list">
-				{% for post in yearMonth.items %}
-					<li>
-						<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %b. %d" }}</time>
-						<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
-					</li>
-				{% endfor %}
-				</ul>
-			{% endfor %}
-	</section>
+    <section>
+        <h1 id="posts">
+            Weekly Posts
+        </h1>
+        <!-- https://gist.github.com/tuananh/7432553 -->
+        {% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%B %Y'"  %}
+        {% for yearMonth in postsByYearMonth %}
+            <h2>{{ yearMonth.name }}</h2>
+            <ul class="post-list">
+                {% for post in yearMonth.items %}
+                    <li>
+                        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %b. %d" }}</time>
+                        <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% endfor %}
+    </section>
 </div>
