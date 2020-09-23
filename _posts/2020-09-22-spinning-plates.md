@@ -16,7 +16,7 @@ A tool like Beeminder is really meant to do a bit of alchemy, in regards to work
 
 Perhaps it'd be more sensible to view these tools as [simple machines](https://www.explainthatstuff.com/toolsmachines.html) for cognitive function and ability. It's not really extra work, but rather something you utilize to change the point of which you're applying the work *to*. A lever, or a pulley, or a wedge.
 
-I am rather busy myself, too. I just got my [freelance profile](https://www.upwork.com/o/profiles/users/~015006e0afbe1f3a6d/) approved, while also working on [Marketing certification)(https://www.ama.org/content-marketing-certification/), looking for stable employment, and studying data science on [DataCamp](https://www.datacamp.com/).
+I am rather busy myself, too. I just got my [freelance profile](https://www.upwork.com/o/profiles/users/~015006e0afbe1f3a6d/) approved, while also working on [Marketing certification](https://www.ama.org/content-marketing-certification/), looking for stable employment, and studying data science on [DataCamp](https://www.datacamp.com/).
 
 That's why I haven't started any new systems yet, even though I said I would by now! Luckily I can create them now, hah.
 
