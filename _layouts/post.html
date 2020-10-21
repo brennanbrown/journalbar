@@ -14,10 +14,8 @@ layout: default
                     <span itemprop="name">{{ page.author }}</span>
                 </span>
             {% endif %}
-
             {% assign post = page %}
             {% if post.tags.size > 0 %}
-
                 {% assign tags_content = "" %}
                 {% for post_tag in post.tags %}
                     {% capture tags_content_temp %}
@@ -25,12 +23,9 @@ layout: default
                     {% endcapture %}
                     {% assign tags_content = tags_content_temp %}
                 {% endfor %}
-
                 &middot;
                 <span class="tags" itemprop="tags">{{ tags_content }}</span>
-
             {% endif %}
-
         </p>
     </header>
     <div class="post-content" itemprop="articleBody">
