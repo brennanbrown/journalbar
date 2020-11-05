@@ -1,11 +1,11 @@
 Gem::Specification.new do |spec|
-	spec.name          = "textlog"
-	spec.version       = "1.5.0"
-	spec.authors       = ["Heiswayi Nrird"]
-	spec.email         = ["heiswayi@nullableobject.com"]
+	spec.name          = "watery"
+	spec.version       = "1.0.0"
+	spec.authors       = ["Brennan K. Brown"]
+	spec.email         = ["mail@brennanbrown.ca"]
 
-	spec.summary       = "A minimalist, lefty-style Jekyll theme for documentation based blog"
-	spec.homepage      = "https://github.com/heiswayi/textlog"
+	spec.summary       = "A minimalist, bare-bones theme for Jekyll only using the Water.css framework while still following the best practices for accessibility and search-engine optimization."
+	spec.homepage      = "https://github.com/brennanbrown/watery"
 	spec.license       = "MIT"
 
 	spec.metadata["plugin_type"] = "theme"

@@ -1,6 +1,21 @@
-<h1 class="smallcap"><a class="site-title"
-        href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title }}</a> —A Metasystem Experiment</h1>
-{% include nav.html %}
+<header>
+    <h1 id="title">
+        <a href="/">{{site.title}}</a>
+        —A Metasystem Experiment
+    </h1>
+    <p id=quote><mark><em>It gets easier. Every day it gets a little easier. But you gotta do it every day, that’s the hard
+        part. But it does get easier.</mark> <br>—Bojack Horseman</em>
 
-<p class=quote><q><em>It gets easier. Every day it gets a little easier. But you gotta do it every day, that’s the hard
-            part. But it does get easier.</q> —Bojack Horseman</p></em>
+    <hr />
+    <div id="navigation">
+        <a href="/">Home</a> /
+        {% for page in site.pages %}
+        <a href="{{ page.url }}">{{page.title}}</a> /
+        {% endfor %}
+        <a href="https://wandernotebook.com/">Blog</a> /
+        <a href="http://beeminder.com/brennanbrown">Goals</a> /
+        <a href="https://www.nathanarthur.com/beeminder-wiki/">Wiki</a> /
+        <a href="/feed.xml">RSS</a>
+    </div>
+    <hr />
+</header>

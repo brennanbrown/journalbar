@@ -1,22 +1,48 @@
-# Site settings
 title: "Journal.Bar"
-description: "A personal blog for self-quantification via Beeminder. Powered by Jekyll. "
-permalink: /:title/
+author: Brennan K. Brown
+email: mail@brennanbrown.ca
+description:  "A personal blog for self-quantification via Beeminder. Powered by Jekyll. "
 baseurl: ""
 url: ""
-author: "Brennan Kenneth Brown"
+repository: https://github.com/brennanbrown/journalbar
+twitter: https://twitter.com/brennankbrown/
+github: https://github.com/brennanbrown
+
+paginate: 5
+paginate_path: "/:num/"
 
 # Build settings
 kramdown:
   input: GFM
 permalink: pretty
 
-# Third-party services
-# just leave empty to disable it
 google_analytics: UA-54919711-3
-disqus_shortname: journal-bar 
+disqus: journal-bar 
+comments: true
 
+# Build settings
+theme: null
 plugins:
-  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+permalink: /:title
 
-exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
+theme_switcher: false
+
+# Allows all pages to be put into `_pages` folder
+# for easier navigation and better SEO.
+collections:
+  pages:
+    output: true
+    permalink: /:title
+
+# Exclude from processing.
+exclude:
+  - '.jekyll-cache'
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - 'vendor'
+  - 'LICENSE'
+  - 'README.md'
+  - 'CNAME' 
