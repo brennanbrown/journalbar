@@ -7,7 +7,7 @@ permalink: beginning-a-garden
 comment: true
 ---
 
-*Week Thirty-five!** Not really as busy with Beeminder this week! I've mostly been really busy with my new Jekyll digital garden project (which you can preview [here](https://enjoymentwork.netlify.app) if you're curious). It's crazy how many useful rabbit holes I've gone down in research, and with the serendipitous benefit of having the project's purpose be to archive and organize such rabbit holes!
+**Week Thirty-five!** Not really as busy with Beeminder this week! I've mostly been really busy with my new Jekyll digital garden project (which you can preview [here](https://enjoymentwork.netlify.app) if you're curious). It's crazy how many useful rabbit holes I've gone down in research, and with the serendipitous benefit of having the project's purpose be to archive and organize such rabbit holes!
 
 Anyways, sticking with Beeminder, I've noticed that **/meditation** seems a little selective with which "mindful minutes" it adds as data points--if it's a new medtiation from Headspace I haven't done before then it's added, but if it's one that I've already done then it doesn't seem to count it. I've noticed the iOS application updated though, so maybe it was just an anomaly. 
 

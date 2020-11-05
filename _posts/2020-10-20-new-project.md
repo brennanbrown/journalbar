@@ -7,7 +7,7 @@ permalink: new-project
 comment: true
 ---
 
-**Week Thirty-four** Yet *another* busy bee-week. I'm really enjoying becoming increasingly focused on both the weeds of technicalities, as well as trying to think deeper on the higher concepts that I'm trying to utilize.
+**Week Thirty-four!** Yet *another* busy bee-week. I'm really enjoying becoming increasingly focused on both the weeds of technicalities, as well as trying to think deeper on the higher concepts that I'm trying to utilize.
 
 For starters, I've written in the past about wanting to pivot, but I realize that I am perfectly capable of adding work rather than changing what this project is.
 
