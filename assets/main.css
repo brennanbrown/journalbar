@@ -1,8 +1,13 @@
 body {
-    max-width: 120ch;
+    font-size: 1.5rem !important;
 }
 
-h1, figcaption,
+h1 {
+    font-size: 2.5rem !important;
+}
+
+h1,
+figcaption,
 #description,
 #navigation,
 #author h3,
@@ -11,6 +16,7 @@ h1, figcaption,
 }
 
 h2 {
+    font-size: 2rem !important;
     margin-bottom: 0px;
 }
 
@@ -24,7 +30,7 @@ code {
 }
 
 footer code {
-    background-color: #fff;
+    background-color: hsl(210, 20%, 98%);
 }
 
 a:hover {
@@ -39,8 +45,8 @@ a:hover {
 }
 
 #title a:hover {
-    background-color:#555;
-    color:#fcffb3;
+    background-color: #555;
+    color: #fcffb3;
 }
 
 #navigation a {
