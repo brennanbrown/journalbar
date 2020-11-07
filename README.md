@@ -19,9 +19,9 @@ I’ve decided to begin this meta-accountability experiement, where I’ll repor
 
 Jekyll requires the following:
 
-* Ruby version **2.5.0** or higher
-* RubyGems
-* GCC and Make
+- Ruby version **2.5.0** or higher
+- RubyGems
+- GCC and Make
 
 See [Requirements](https://jekyllrb.com/docs/installation/#requirements) for guides and details.
 
@@ -29,32 +29,42 @@ See [Requirements](https://jekyllrb.com/docs/installation/#requirements) for gui
 
 1. Install all [prerequisites](https://jekyllrb.com/docs/installation/).
 2. Install the jekyll and bundler [gems](https://jekyllrb.com/docs/ruby-101/#gems).
+
 ```
 gem install jekyll bundler
 ```
+
 3. Clone this repository.
+
 ```
 git clone https://github.com/brennanbrown/journalbar.git
 ```
+
 4. Change into your new directory.
+
 ```
 cd journalbar
 ```
+
 5. Install gems from the `Gemfile`.
+
 ```
 bundle install
 ```
+
 5. Build the site and make it available on a local server.
+
 ```
 bundle exec jekyll serve
 ```
+
 6. Browse to [http://localhost:4000](http://localhost:4000)
 
->Pass the `--livereload` option to `serve` to automatically refresh the page with each change you make to the source files: `bundle exec jekyll serve --livereload`
+> Pass the `--livereload` option to `serve` to automatically refresh the page with each change you make to the source files: `bundle exec jekyll serve --livereload`
 
-If you encounter any errors during this process, check that you have installed all the prerequisites in [Requirements](https://jekyllrb.com/docs/installation/#requirements). 
+If you encounter any errors during this process, check that you have installed all the prerequisites in [Requirements](https://jekyllrb.com/docs/installation/#requirements).
 If you still have issues, see [Troubleshooting](https://jekyllrb.com/docs/troubleshooting/#configuration-problems).
 
 ## Credit
 
-Original Jekyll theme [Textlog](https://github.com/heiswayi/textlog) by Heiswayi Nrird.
+Original Jekyll theme [Watery](https://github.com/brennanbrown/watery).
