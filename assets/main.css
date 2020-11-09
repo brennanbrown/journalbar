@@ -1,9 +1,9 @@
 body {
-    font-size: 1.5rem !important;
+    font-size: 1.3rem !important;
 }
 
 h1 {
-    font-size: 2.5rem !important;
+    font-size: 2.3rem !important;
 }
 
 h1,
@@ -25,6 +25,7 @@ mark {
 }
 
 code {
+    font-size: 1rem;
     background-color: #ddd;
     padding: 0px 2px;
 }
@@ -35,6 +36,11 @@ footer code {
 
 a:hover {
     color: #f06059
+}
+
+.post * {
+    font-size: 18px;
+    line-height: 130%;
 }
 
 #title a {
