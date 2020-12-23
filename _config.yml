@@ -8,7 +8,7 @@ repository: https://github.com/brennanbrown/journalbar
 twitter: https://twitter.com/brennankbrown/
 github: https://github.com/brennanbrown
 
-paginate: 5
+paginate: 6
 paginate_path: "/:num/"
 
 # Build settings
