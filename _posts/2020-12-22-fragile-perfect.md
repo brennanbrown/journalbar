@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Forty-Three: The Fragile Perfect
+title: "Forty-Three: The Fragile Perfect"
 tags: [forty-third-week]
 author: Brennan Brown
 permalink: fragile-perfect
