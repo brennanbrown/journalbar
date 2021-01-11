@@ -7,7 +7,7 @@ permalink: fragile-perfect
 comment: true
 ---
 
-**Week Forty-four!** A rather lucky number, huh? A minor update, but after many months of stagnation I've finally reached the Amethyst league in Duolingo! That 1st place in the Diamond league is one step closer to being mine, mwuhaha. Other than that, though, this week has been sort of blah.
+**Week Forty-three!** A minor update, but after many months of stagnation I've finally reached the Amethyst league in Duolingo! That 1st place in the Diamond league is one step closer to being mine, mwuhaha. Other than that, though, this week has been sort of blah.
 
 I've had a couple derails this week, in **/fitness** and **/distraction**, overall I haven't been as productive as I have been and I'm feeling rather disappointed in myself. But at the same time, it's supposed to be winter break, right? 
 
