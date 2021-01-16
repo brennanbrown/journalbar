@@ -30,6 +30,17 @@ code {
     padding: 0px 2px;
 }
 
+blockquote {
+    background-color: #ffd;
+    border-left: 2px solid black;
+    padding: 0 10px;
+    font-style: italic;
+}
+
+blockquote p {
+    text-align: left;
+}
+
 footer code {
     background-color: hsl(210, 20%, 98%);
 }
