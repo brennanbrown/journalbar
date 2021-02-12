@@ -17,4 +17,4 @@ The good news is that I successfully completed [**Hacktoberfest**](https://hackt
 
 I also just added a neat feature on the [**demo site**](https://watery.netlify.app) that lets you effortlessly see how it would look using a different classless CSS framework instead, which really demonstrates its extensibility. 
 
-To tie it back to relevancy, I am probably going to use a variant of this theme for my Beeminder blog [journal.bar](https://journal.bar/). Speaking of, I've been thinking more down-the-line about this experiment, and trying to figure out if there would be any meaningful way to measure difference from the beginning to, say, a year after. I can offer my own layman's observations, but it'd be neat to be an academic guinea pig. 
+To tie it back to relevancy, I am probably going to use a variant of this theme for my Beeminder blog [journal.kim](https://journal.kim/). Speaking of, I've been thinking more down-the-line about this experiment, and trying to figure out if there would be any meaningful way to measure difference from the beginning to, say, a year after. I can offer my own layman's observations, but it'd be neat to be an academic guinea pig. 

@@ -21,4 +21,4 @@ More than anything, I really need to just shut up and eat my own dogfood. Even w
 
 Anyways, like I said, it's Christmas in two days, so I'm not gonna fret about it all too much. The tricky thing is trying to set everything up for the [new year](https://brennanbrown.medium.com/the-best-time-to-start-a-new-year-s-resolution-is-right-now-ffdd389fbf01) (planners, resolutions, etc.) and there's only six days between Christmas and the new year to do all that! 
 
-A totally random aside: In [entry #6](https://journal.bar/action-plan) I predicted (as a total layman) that vaccines would be deployed in September of next year. I can't believe I was wrong by such a large amount! If anything, this gives my modest idealistic soul hope that we can tackle seemingly impossible problems in the new year to come. ❤️
+A totally random aside: In [entry #6](https://journal.kim/action-plan) I predicted (as a total layman) that vaccines would be deployed in September of next year. I can't believe I was wrong by such a large amount! If anything, this gives my modest idealistic soul hope that we can tackle seemingly impossible problems in the new year to come. ❤️

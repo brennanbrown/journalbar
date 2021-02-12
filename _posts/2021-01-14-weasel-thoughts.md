@@ -37,7 +37,7 @@ One of the reasons I've been "lazy" is because I started playing Dwarf Fortress 
 
 Now I'm planning to work on a forth Jekyll theme starting tomorrow, to replace the one that I'm [currently using](https://notebook.casa/) that I built from scratch nearly a year ago now. In retrospect, man it is ugly.
 
-Also related, I'm sad to say that my ownership of [**Journal.Bar/**](https://journal.bar) is going to be expiring soon, and even though the purchase cost was only a few dollars, the renewal is $65CAD! That's how they getcha. I'm not sure what URL to go with next, since it's not really worth that much to me.
+Also related, I'm sad to say that my ownership of [**Journal.kim/**](https://journal.kim) is going to be expiring soon, and even though the purchase cost was only a few dollars, the renewal is $65CAD! That's how they getcha. I'm not sure what URL to go with next, since it's not really worth that much to me.
 
 > Wait, be sure to read the “EDIT” I added toward the top of [“No-Excuses Mode 3”!](https://forum.beeminder.com/t/no-excuses-mode/7570) :heart:
 > --[@dreev](https://forum.beeminder.com/u/dreev)

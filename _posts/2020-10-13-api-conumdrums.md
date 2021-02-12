@@ -25,4 +25,4 @@ As I've written about a few weeks ago, limitation breeds creativity for me. It's
 
 P.S. I figured out why RescueTime was still measuring time even though I was AFK. It has to do with a pesky [design flaw](https://www.unixreich.com/blog/2013/linux-nvidia-optimus-on-thinkpad-w520w530-with-external-monitor-finally-solved/) ([more detail](https://wiki.archlinux.org/index.php/Lenovo_ThinkPad_W520#Nvidia_Optimus_Setup)) of the ThinkPad W520 (which, by the way, is the best laptop ever minus this one thing).
 
-P.S.S. Also added a link to @narthur's [beewiki](https://www.nathanarthur.com/beeminder-wiki/) to [journal.bar](https://journal.bar), I hope it catches on! 😊
+P.S.S. Also added a link to @narthur's [beewiki](https://www.nathanarthur.com/beeminder-wiki/) to [journal.kim](https://journal.kim), I hope it catches on! 😊

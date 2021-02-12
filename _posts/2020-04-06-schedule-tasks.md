@@ -35,7 +35,7 @@ It can be difficult to figure out what pieces of information are important/meani
 
 There can be a sense of being overwhelmed when adding more systems to your Beeminder. I feel as though a good solution to feeling overwhelmed would be translating my Beeminder systems into a one-page document outlining what I ought to be doing each day.
 
-I developed such a document before, and although was pretty good, it was more rooted in nebulous ideals that weren't directly connected to an output such as Beeminder's quantative measurement of progress and action. As such, these daily actions weren't really accomplished that well or at all most of the time, so I decided to update them accordingly. **You can view a PDF version [here](https://journal.bar/assets/schedule.pdf).**
+I developed such a document before, and although was pretty good, it was more rooted in nebulous ideals that weren't directly connected to an output such as Beeminder's quantative measurement of progress and action. As such, these daily actions weren't really accomplished that well or at all most of the time, so I decided to update them accordingly. **You can view a PDF version [here](https://journal.kim/assets/schedule.pdf).**
 
 - Start today off right! Do good and be meaningful—Try your best.
   - Wake up early and make your bed as soon as you get up. Clean your room. Listen to upbeat music and visualize what you’ll be doing for the day. Try to prepare as much the night prior, as well as make sure you have a healthy breakfast.
