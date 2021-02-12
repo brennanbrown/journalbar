@@ -1,23 +1,11 @@
-body {
-    font-size: 1.3rem !important;
-}
-
-h1 {
-    font-size: 2.3rem !important;
-}
-
 h1,
 figcaption,
+footer,
 #description,
 #navigation,
 #author h3,
 #quote {
     text-align: center;
-}
-
-h2 {
-    font-size: 2rem !important;
-    margin-bottom: 0px;
 }
 
 mark {
@@ -26,7 +14,7 @@ mark {
 
 code {
     font-size: 1rem;
-    background-color: #ddd;
+    background-color: #eee;
     padding: 0px 2px;
 }
 
@@ -37,28 +25,42 @@ blockquote {
     font-style: italic;
 }
 
-blockquote p {
-    text-align: left;
+footer code {
+    max-width: 78ch;
+    margin: auto;
 }
 
-footer code {
-    background-color: hsl(210, 20%, 98%);
+a {
+    text-decoration: underline;
+    color: #456a8f
+}
+
+a:visited {
+    color: #53458f;
 }
 
 a:hover {
-    color: #f06059
+    color: #6d9bc9;
 }
 
-.post * {
-    font-size: 18px;
-    line-height: 130%;
+.site-intro {
+    background-color: #eee;
+    border-left: 3px solid black;
+    padding-left: 15px;
+    font-style: italic;
+}
+
+.post p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 10px;
 }
 
 #title a {
     color: #eee;
     background-color: #333;
     text-decoration: none;
-    padding: 0px 4px;
+    padding: 0px 8px;
 }
 
 #title a:hover {
@@ -66,17 +68,45 @@ a:hover {
     color: #fcffb3;
 }
 
+#quote {
+    max-width: 36ch;
+    margin: 3ch auto;
+    font-size: 18px;
+}
+
+#navigation,
+.site-intro,
+.copyright {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 #navigation a {
     font-weight: bold;
+    font-size: 20px;
+    margin-top: -5px;
+    padding-right: 10px;
 }
 
 #pages {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+#pages a {
+    text-decoration: underline;
 }
 
 #current-page {
     padding: 0px 15px;
+}
+
+hr {
+    border-top: 1px solid grey;
+    max-width: 78ch;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: -20px;
 }
 
 /* ACCESSIBILITY */
