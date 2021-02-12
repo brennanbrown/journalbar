@@ -67,4 +67,4 @@ If you still have issues, see [Troubleshooting](https://jekyllrb.com/docs/troubl
 
 ## Credit
 
-Original Jekyll theme [Watery](https://github.com/brennanbrown/watery).
+Original Jekyll theme [Watery](https://github.com/brennanbrown/watery) and CSS styles from [Writ.css](https://writ.cmcenroe.me/).
