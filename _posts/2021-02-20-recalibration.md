@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recalibration
+title: "Fifty: Recalibration"
 tags: [fiftieth-week]
 author: Brennan Brown
 permalink: recalibration
