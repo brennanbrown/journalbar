@@ -9,7 +9,7 @@ comment: true
 
 **Week Fifty-one!** I'm recovering from a minor surgery and just settling in. Overall, things are going good. I'm finally diving into [Eleventy](https://www.11ty.dev/) which I wish I had done sooner! It's similar to Jekyll, but a lot more powerful and flexible, and although relatively niche right now, I see a bright future ahead. I'm planning to migrate my Jekyll projects to it.
 
-Anyways, back to Bees, it's been since entry [**#25**](https://forum.beeminder.com/t/brennans-beeminder-journal/6340/36) that I went over all of my systems entirely! And since this is entry #50, perhaps I'll make it a bi-annual sort of thing. (Would data points be too sparse to make that a feasible Beeminder? Hah!)
+Anyways, back to Bees, it's been since entry [**#25**](https://journal.kim/jam-gardens) that I went over all of my systems entirely! And since this is entry #51, perhaps I'll make it a bi-annual sort of thing. (Would data points be too sparse to make that a feasible Beeminder? Hah!)
 
 I apologize for the following redundancy, however I felt it was a good idea to just have a single, cohesive reference that I can add to or modify easily. Each system has a explanation, as well as an update on how progress is going:
 
@@ -31,19 +31,19 @@ I apologize for the following redundancy, however I felt it was a good idea to j
     **_Metrics:_** Tracking the amount of words that I write digitally, with a current rate of 450 words/day. Data added via first-party integration with [Draftin](https://www.beeminder.com/draft).\
     **_Current Progress:_** Since I began tracking in June 2020, I've written over 160,000 words(!). I was intimated to start doing it sooner, but it was a habit that I quickly started to enjoy. Most of this is just private journal entries, but also counting blog posts, poems, and this Bee Journal!
   - **[🟡📝 Blog](https://beeminder.com/brennanbrown/blog)**:\
-    **_Metrics:_** Tracking the amount of [blog posts](https://blog.brennanbrown.ca/) that I write, with a current rate of 1/week. Data added via IFTTT and Medium.\
+    **_Metrics:_** Tracking the amount of [blog posts](https://blog.brennanbrown.ca/) that I write, with a current rate of 1 post/week. Data added via IFTTT and Medium.\
     **_Current Progress:_** I've written a bunch of more blog posts since I started tracking this again last year, around two dozen that I'm proud of! Recently, though, I've been deleting  posts that I've been writing because I feel as though they haven't been up to snuff, so I'm going to be lowering the rate to 2/month.
   - **[🟢📝 Journalbar](https://beeminder.com/brennanbrown/journalbar)**:\
-    **_Metrics:_** Tracking the amount of posts that I add to [*Journal.Kim*](https://journal.kim) with a rate of 1/week. Data added manually.\
+    **_Metrics:_** Tracking the amount of posts that I add to [*Journal.Kim*](https://journal.kim) with a rate of 1 entry/week. Data added manually.\
     **_Current Progress:_** I'm often late in writing these updates, but I still manage to get out on per week, and it's really enjoyable!
   - **[🔴🔁 Morning Pages](https://beeminder.com/morningpages2)**:\
     **_Metrics:_** Tracking the amount of words that I write in a Google Doc, with a deadline of 11am instead of midnight like all of my other goals, and a rate of 250 words/day. Data added via [URLMinder](https://www.beeminder.com/urlminder).\
     **_Current Progress:_** Currently archived, I still haven't started this one! I'm going to push myself to just get it started this week.
   - **[🟡📝 Poetry](https://beeminder.com/brennanbrown/poetry)**:\
-    **_Metrics:_** Tracking the amount of [poems](https://warsawmountain.com) that I post, with a rate of 1/week. Data added via IFTTT and Tumblr.\
+    **_Metrics:_** Tracking the amount of [poems](https://warsawmountain.com) that I post, with a rate of 1 poem/week. Data added via IFTTT and Tumblr.\
     **_Current Progress:_** I've written around 50 new poems since I started tracking this again! I'm currently in a bit of a creative slump though, but it'll pass.
 - **[🟡📝 Twitter](https://beeminder.com/brennanbrown/twitter)**:\
-  **_Metrics:_** Tracking the amount of tweets that I post, with a rate of 1/day. Data added via first-party integration with [Twitter](https://www.beeminder.com/twitter).\
+  **_Metrics:_** Tracking the amount of tweets that I post, with a rate of 1 tweet/day. Data added via first-party integration with [Twitter](https://www.beeminder.com/twitter).\
   **_Current Progress:_** I've been using this on a private Twitter for a personal diary of sorts, but since I've been using Draft for that more extensively, I want to transition to actually using a public Twitter.
 
 ### 📈 Productivity
@@ -51,8 +51,11 @@ I apologize for the following redundancy, however I felt it was a good idea to j
 - **[🟢🔁 Productive Time](https://beeminder.com/brennanbrown/productivity)**:\
   **_Metrics:_** Tracking the amount of productive time that I spend on the computer, with a rate of 6 hrs/day. Data added via first-party integration with [RescueTime](https://www.beeminder.com/rescuetime).\
   **_Current Progress:_** Since I began tracking again last year, I've worked roughly 1,200 productive hours(!). Similar to Beeminder, just having the graphs and data for my usage motivates me a lot.
+  - **[🟢🔁 GitHub](https://beeminder.com/brennanbrown/github)**:\
+    **_Metrics:_** Tracking the amount of commits that I push to GitHub, with a rate of 1 commit/day. Data added via [GitMinder](https://www.beeminder.com/gitminder).\
+    **_Progress:_** Since I began tracking last year, I've pushed over 700 commits(!) and create a few open-source projects that I'm really proud of. I *could* track my time coding using WakaTime as well, but this seems to be a good metric.
   - **[🟡📝 Courses](https://beeminder.com/brennanbrown/courses)**:\
-    **_Metrics:_** Tracking the amount of courses that I complete on [Linkedin Learning](https://www.linkedin.com/learning/), with a rate of 2/month. Data added manually.\
+    **_Metrics:_** Tracking the amount of courses that I complete on [Linkedin Learning](https://www.linkedin.com/learning/), with a rate of 2 courses/month. Data added manually.\
     **_Current Progress:_** Since I began tracking, I've completed dozens of courses! But I do need to work on learning retention and meaningfulness, since I can breeze by materials too quickly sometimes.
   - **[🟡🔁 Learning](https://beeminder.com/brennanbrown/learning)**:\
     **_Metrics:_** Tracking the amount of time that I spend on specific websites and software to encourage my learning in the above courses, with a rate of 1 hr/day. Data added via RescueTime with custom categories.\
@@ -116,5 +119,5 @@ I apologize for the following redundancy, however I felt it was a good idea to j
   **_Metrics:_** Meta, tracking the amount of times that I have to e-mail about a non-legit derail, with a current rate of 0, meaning that I will derail if this happens no matter what.\
   **_Current Progress:_** Since I began tracking in November, I've only had to use this once so far, yay!
 - **[🔴🎈 Meta](https://beeminder.com/brennanbrown/meta)**:\
-  **_Metrics:_** Meta, tracking the amount of data-points that are added to all of my other goals, rather it's manual or automatic, with a rate of 25 data-points/dayt. Data added via [Beemind.me](https://beemind.me/)\
+  **_Metrics:_** Meta, tracking the amount of data-points that are added to all of my other goals, rather it's manual or automatic, with a rate of 25 data-points/day. Data added via [Beemind.me](https://beemind.me/)\
   **_Current Progress:_** Since I began tracking in August, I've added nearly 9,000 data-points in Beeminder! Sadly, the API seems to have stopped working, so I'm going to have to archive. (It was silly and pointless, anyways.)
