@@ -1,7 +1,7 @@
 title: "Journal.Kim"
 author: Brennan K. Brown
 email: mail@brennanbrown.ca
-description:  "A personal blog for self-quantification via Beeminder. Powered by Jekyll. "
+description: "A personal blog for self-quantification via Beeminder. Powered by Jekyll. "
 baseurl: ""
 url: "https://journal.kim"
 repository: https://github.com/brennanbrown/journalbar
@@ -11,13 +11,14 @@ github: https://github.com/brennanbrown
 paginate: 6
 paginate_path: "/:num/"
 
+port: 4040
+
 # Build settings
 kramdown:
   input: GFM
-permalink: pretty
 
 google_analytics: UA-54919711-3
-disqus: journal-bar 
+disqus: journal-bar
 comments: true
 
 # Build settings
@@ -39,10 +40,10 @@ collections:
 
 # Exclude from processing.
 exclude:
-  - '.jekyll-cache'
-  - 'Gemfile'
-  - 'Gemfile.lock'
-  - 'vendor'
-  - 'LICENSE'
-  - 'README.md'
-  - 'CNAME' 
+  - ".jekyll-cache"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "vendor"
+  - "LICENSE"
+  - "README.md"
+  - "CNAME"

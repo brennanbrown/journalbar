@@ -3,7 +3,7 @@ layout: post
 title: "Fifty-Three: Future Akrasia"
 tags: [fifty-third-week]
 author: Brennan Brown
-permalink: future-akraisa
+permalink: future-akrasia
 comment: true
 ---
 
