@@ -9,7 +9,7 @@ comment: true
 
 **Week Fifty-three!** Things have been going really great for me the past few weeks, productivity-wise. I'm finally starting to chip away at the seemingly immortal list of things that I've been meaning to do forever, now.
 
-The biggest update I have is that I've been using [**Noom**](https://www.noom.com/) for the past two weeks on their trial period. Part of using it was logging my meals for caloric count, and to my suprise, it's both easy and really helpful! So, I'm going to be archiving **/foodlog** and start a new goal called **/nutrition**, where I'll log my caloric intake via FitBit from now on.
+The biggest update I have is that I've been using [**Noom**](https://www.noom.com/) for the past two weeks on their trial period. Part of using it was logging my meals for caloric count, and to my suprise, it's both easy and really helpful! So, I'm going to be archiving **/foodlog** and start a new goal called **/nutrition**, where I'll log my caloric intake via Fitbit from now on.
 
 Anyways, the psychological tricks that they give you throughout the regimen are helpful, and honestly it's sort of puzzling to me why they're strictly just applied to physical health. This seems to be very common, where when people want to improve themselves or their life, they focus on one particular facet. As I've said, I believe taking a holistic approach is what's been keeping me so successful, each system helps keep one another going.
 
@@ -34,3 +34,5 @@ I think that after another year, in February 2022, if things are still going wel
 > --[@lanthala](https://forum.beeminder.com/t/brennans-beeminder-journal/6340/85?u=brennanbrown)
 
 On the complete other hand, this is also an excellent point. Using Beeminder isn't actually that big of a deal--these are all goals that I've created myself. I think this image below aptly describes it:
+
+<img src="https://i.postimg.cc/NMYZgqmH/beeminder-simpsons.jpg" alt="Beeminder Simpsons"/>
