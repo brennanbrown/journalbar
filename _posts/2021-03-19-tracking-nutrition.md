@@ -15,4 +15,6 @@ Also, I've been grinding like crazy on Duolingo (as you can see on my [**/french
 
 And the only reason I did it was to get the achievements for it. I guess gamification really works on me! That's why I used 750words so much until I ran out of badges to achieve. Who knows, maybe I'll even try Habitica again, but there's so much overlap with what I already do with Beeminder that I don't really see the point. 
 
+And in failure news, I finally derailed myself on **/journalbar** because I missed a week a month ago, better late than never! I also restarted **/weight-check** since I was doing so badly on it before, but I got a new scale and now I'm logging daily!
+
 That's about it for this week. Oh, also fun fact: I ran `cat * | wc -w` in the `_posts` folder on journalkim, and it turns out that I've written 33,000 words so far in this Beejournal, which is around the length of half a novel! Is that worryingly fanatical? Probably.
