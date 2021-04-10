@@ -13,7 +13,7 @@ I'm mostly just taking time to do some reflecting--I have a blog post due soon t
 
 This year, I have two central and contradicting ideas: 1) *Apply Overwhelming Force*, and 2) *Embrace the Cozy*. 
 
-As I've written before, I still feel as though there is so much more that I could be doing, so much more that I *ought* to be doing. But at the same time, I recognize how difficult and sometimes unbearable the last year has been. 
+As I've written before, I still feel as though there is so much more that I could be doing, so much more that I *ought* to be doing. But at the same time, I recognize how difficult and sometimes unbearable the last year has been, and figuring out how to incorporate more coziness in my life could be both important and fun.
 
 Of course, this is largely due to COVID-19--I had thought just a few weeks prior to this that things were look up regarding the pandemic, however this is no longer the case. [Canada is likely to exceed the U.S. infection rate in the coming days](https://www.macleans.ca/news/canada-likely-to-exceed-u-s-infection-rate-in-coming-days/), and our vaccines per capita have been far lower. We are resuming lockdown as another third wave hits my local region.
 
