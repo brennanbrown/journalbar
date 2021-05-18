@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sixty-twp: Counting Words"
+title: "Sixty-two: Counting Words"
 tags: [sixty-second-week]
 author: Brennan Brown
 permalink: counting-words
