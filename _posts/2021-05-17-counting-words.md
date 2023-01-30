@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Sixty-two: Counting Words"
-tags: [sixty-second-week]
-author: Brennan Brown
+title: 'Sixty-two: Counting Words'
+date: 2021-05-17 00:00:00 Z
 permalink: counting-words
+tags:
+- sixty-second-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Forty-two: Edge Skates"
-tags: [forty-second-week]
-author: Brennan Brown
+title: 'Forty-two: Edge Skates'
+date: 2020-12-16 00:00:00 Z
 permalink: edge-skates
+tags:
+- forty-second-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

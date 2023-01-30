@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Fifty-Two: Framework Beeminder"
-tags: [fifty-second-week]
-author: Brennan Brown
+title: 'Fifty-Two: Framework Beeminder'
+date: 2021-03-06 00:00:00 Z
 permalink: framework-beeminder
+tags:
+- fifty-second-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
-
 
 **Week Fifty-two!** Finally, reaching a canonical year a few weeks late due to my usual tardiness. I decided to do a bit more of a [qualitative write-up](https://www.linkedin.com/pulse/tracking-every-aspect-my-life-year-brennan-kenneth-brown/?trackingId=ff5QKAoiQR%2B2vXxR1k194A%3D%3D) for my year review on LinkedIn and my main blog.
 

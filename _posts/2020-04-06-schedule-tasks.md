@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Eight: Schedule Tasks"
-tags: [eighth-week]
-author: Brennan Brown
+title: 'Eight: Schedule Tasks'
+date: 2020-04-06 00:00:00 Z
 permalink: schedule-tasks
+tags:
+- eighth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

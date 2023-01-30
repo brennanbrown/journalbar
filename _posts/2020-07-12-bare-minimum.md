@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Twenty: Bare-minimum Days"
-tags: [twentieth-week]
-author: Brennan Brown
+title: 'Twenty: Bare-minimum Days'
+date: 2020-07-12 00:00:00 Z
 permalink: bare-minimum
+tags:
+- twentieth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

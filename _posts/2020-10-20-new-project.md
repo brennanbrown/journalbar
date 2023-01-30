@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Thirty-Four: A New Project?"
-tags: [thirty-forth-week]
-author: Brennan Brown
+title: 'Thirty-Four: A New Project?'
+date: 2020-10-20 00:00:00 Z
 permalink: new-project
+tags:
+- thirty-forth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

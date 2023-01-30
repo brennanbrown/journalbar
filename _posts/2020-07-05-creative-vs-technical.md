@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Nineteen: Creative vs. Technical"
-tags: [nineteenth-week]
-author: Brennan Brown
+title: 'Nineteen: Creative vs. Technical'
+date: 2020-07-05 00:00:00 Z
 permalink: creative-vs-technical
+tags:
+- nineteenth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

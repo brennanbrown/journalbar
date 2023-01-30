@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Seven: The New Normal"
-tags: [seventh-week]
-author: Brennan Brown
+title: 'Seven: The New Normal'
+date: 2020-04-01 00:00:00 Z
 permalink: new-normal
+tags:
+- seventh-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

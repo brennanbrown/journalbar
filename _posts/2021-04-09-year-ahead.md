@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Fifty-Seven: The Year Ahead"
-tags: [fifty-seventh-week]
-author: Brennan Brown
+title: 'Fifty-Seven: The Year Ahead'
+date: 2021-04-09 00:00:00 Z
 permalink: year-ahead
+tags:
+- fifty-seventh-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

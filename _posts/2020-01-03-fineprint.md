@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "Fineprint for Goals"
-tags: [Beeminder, Meta]
-author: Brennan Brown
+title: Fineprint for Goals
+date: 2020-01-03 00:00:00 Z
 permalink: fineprint
+tags:
+- Beeminder
+- Meta
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

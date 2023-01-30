@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Forty-Seven: Vitamins and Mornings"
-tags: [forty-seventh-week]
-author: Brennan Brown
+title: 'Forty-Seven: Vitamins and Mornings'
+date: 2021-01-21 00:00:00 Z
 permalink: vitamins-and-mornings
+tags:
+- forty-seventh-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

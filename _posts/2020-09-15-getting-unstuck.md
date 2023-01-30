@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Twenty-Nine: Getting Unstuck!"
-tags: [twenty-ninth-week]
-author: Brennan Brown
+title: 'Twenty-Nine: Getting Unstuck!'
+date: 2020-09-15 00:00:00 Z
 permalink: getting-unstuck
+tags:
+- twenty-ninth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

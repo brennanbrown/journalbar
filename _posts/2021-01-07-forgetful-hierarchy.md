@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Forty-Five: Forgetful Hierarchy"
-tags: [forty-fifth-week]
-author: Brennan Brown
+title: 'Forty-Five: Forgetful Hierarchy'
+date: 2021-01-07 00:00:00 Z
 permalink: forgetful-hierarchy
+tags:
+- forty-fifth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
-
 
 **Week Forty-five!** This has been a totally lackluster week for me, probably the laziest I've been since I've started this--but I don't see that as a bad thing. I've noticed for awhile now that I've been having this tug-of-war on a daily basis between between my akrasia and my daily routine. 
 

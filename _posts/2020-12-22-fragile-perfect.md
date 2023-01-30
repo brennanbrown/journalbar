@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Forty-Three: The Fragile Perfect"
-tags: [forty-third-week]
-author: Brennan Brown
+title: 'Forty-Three: The Fragile Perfect'
+date: 2020-12-22 00:00:00 Z
 permalink: fragile-perfect
+tags:
+- forty-third-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

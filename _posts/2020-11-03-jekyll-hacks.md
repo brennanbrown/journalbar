@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Thirty-Six: Jekyll Hacks"
-tags: [thirty-sixth-week]
-author: Brennan Brown
+title: 'Thirty-Six: Jekyll Hacks'
+date: 2020-11-03 00:00:00 Z
 permalink: jekyll-hacks
+tags:
+- thirty-sixth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

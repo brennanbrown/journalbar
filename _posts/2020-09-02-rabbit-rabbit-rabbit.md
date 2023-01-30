@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Twenty-Seven: Rabbit, Rabbit, Rabbit!"
-tags: [twenty-seventh-week]
-author: Brennan Brown
+title: 'Twenty-Seven: Rabbit, Rabbit, Rabbit!'
+date: 2020-09-02 00:00:00 Z
 permalink: rabbit-rabbit-rabbit
+tags:
+- twenty-seventh-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
 permalink: about
+layout: page
 ---
 
 <img src="https://i.postimg.cc/HLMF4gsN/Brennan-Brown-250.png" alt="Photo of Brennan" align="left" style="margin: 15px;">

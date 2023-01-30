@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Twenty-Eight: Limits and Arbitary"
-tags: [twenty-eighth-week]
-author: Brennan Brown
+title: 'Twenty-Eight: Limits and Arbitary'
+date: 2020-09-08 00:00:00 Z
 permalink: limits-and-arbitrary
+tags:
+- twenty-eighth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

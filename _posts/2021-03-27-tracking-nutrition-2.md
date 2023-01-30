@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Fifty-Five: Tracking Nutrition II"
-tags: [fifty-fifth-week]
-author: Brennan Brown
+title: 'Fifty-Five: Tracking Nutrition II'
+date: 2021-03-27 00:00:00 Z
 permalink: tracking-nutrition-2
+tags:
+- fifty-fifth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

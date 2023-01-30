@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Twelve: Self-Permission"
-tags: [twelveth-week]
-author: Brennan Brown
+title: 'Twelve: Self-Permission'
+date: 2020-05-18 00:00:00 Z
 permalink: self-permission
+tags:
+- twelveth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

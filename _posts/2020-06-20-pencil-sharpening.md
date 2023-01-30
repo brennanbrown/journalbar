@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Seventeen: Sharpening vs. Writing"
-tags: [seventeenth-week]
-author: Brennan Brown
+title: 'Seventeen: Sharpening vs. Writing'
+date: 2020-06-20 00:00:00 Z
 permalink: pencil-sharpening
+tags:
+- seventeenth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

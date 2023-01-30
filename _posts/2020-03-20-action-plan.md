@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Six: An Action Plan"
-tags: [sixth-week]
-author: Brennan Brown
+title: 'Six: An Action Plan'
+date: 2020-03-20 00:00:00 Z
 permalink: action-plan
+tags:
+- sixth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

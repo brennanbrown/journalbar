@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Three: Holistic Fragility"
-tags: [third-week]
-author: Brennan Brown
+title: 'Three: Holistic Fragility'
+date: 2020-03-01 00:00:00 Z
 permalink: holistic-fragility
+tags:
+- third-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
-
 
 **Week Three!** This week was a bit of a whirlwind. I've been attending a lot of networking events and getting my toes wet in the local technology scene. Very cool stuff but also very exhausting. Not to mention I'm in the process of moving houses, so I'm writing this a little last-minute.
 

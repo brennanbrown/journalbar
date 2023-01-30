@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Four: Shake the Dust"
-tags: [fourth-week]
-author: Brennan Brown
+title: 'Four: Shake the Dust'
+date: 2020-03-09 00:00:00 Z
 permalink: shake
+tags:
+- fourth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
-
 
 **Week Four!** The first month of this experiment is over. This week has definitely been hectic for me. A good signifier of this is that I don't really have a list of ideas and notes, like I have had in the past few weeks. In the past, this sort of lack of progress would have most likely discouraged me, and caused a downward spiral where I ended up quitting--only to try to restart and begin again a few months later all over again with seemingly nothing learned. 
 

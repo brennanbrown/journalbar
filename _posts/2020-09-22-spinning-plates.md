@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Thirty: Spinning Plates"
-tags: [thirtieth-week]
-author: Brennan Brown
+title: 'Thirty: Spinning Plates'
+date: 2020-09-22 00:00:00 Z
 permalink: spinning-plates
+tags:
+- thirtieth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
-
 
 **Week Thirty!** For the first time in a long while, I feel as though I have too many plates that I'm trying to simultaneously spin. I had a weird experience this week, where I didn't realize I derailed until the next day. I was perfectly sure that I *did* everything, and the usual alarms just completely went over my head. 
 

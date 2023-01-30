@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Thirty-Three: API Conundrums"
-tags: [thirty-third-week]
-author: Brennan Brown
+title: 'Thirty-Three: API Conundrums'
+date: 2020-10-13 00:00:00 Z
 permalink: api-conundrums
+tags:
+- thirty-third-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Sixty-four: Mass Derailments"
-tags: [sixty-forth-week]
-author: Brennan Brown
+title: 'Sixty-four: Mass Derailments'
+date: 2021-05-29 00:00:00 Z
 permalink: mass-derailments
+tags:
+- sixty-forth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
-
 
 **Week Sixty-four!** Well, it finally happened. The consequences of constantly edge-skating with beemergencies caught up to me. On Wednesday, I had a small emergency (everything is fine now) that caused me to miss a good portion of my daily routine, and caused a bunch of derailments because of that:
 

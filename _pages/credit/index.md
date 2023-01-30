@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Credit
 permalink: credit
+layout: page
 ---
 
 **Watery** is minimalist, bare-bones theme for Jekyll only using the Water.css framework while still following the best practices for accessibility and search-engine optimization, made by me!

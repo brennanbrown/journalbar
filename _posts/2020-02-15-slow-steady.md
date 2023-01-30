@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "One: Slow and Steady"
-tags: [first-week]
-author: Brennan Brown
+title: 'One: Slow and Steady'
+date: 2020-02-15 00:00:00 Z
 permalink: steady
+tags:
+- first-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

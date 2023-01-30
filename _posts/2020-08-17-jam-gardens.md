@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Twenty-Five: Bees, JAM, and Gardens"
-tags: [twenty-fifth-week]
-author: Brennan Brown
+title: 'Twenty-Five: Bees, JAM, and Gardens'
+date: 2020-08-17 00:00:00 Z
 permalink: jam-gardens
+tags:
+- twenty-fifth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

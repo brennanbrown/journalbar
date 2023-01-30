@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Twenty-Six: Alerts and Restarts"
-tags: [twenty-sixth-week]
-author: Brennan Brown
+title: 'Twenty-Six: Alerts and Restarts'
+date: 2020-08-24 00:00:00 Z
 permalink: alerts-restart
+tags:
+- twenty-sixth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

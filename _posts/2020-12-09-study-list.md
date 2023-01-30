@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Forty-one: Study List"
-tags: [forty-first-week]
-author: Brennan Brown
+title: 'Forty-one: Study List'
+date: 2020-12-09 00:00:00 Z
 permalink: study-list
+tags:
+- forty-first-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Fifty-Six: Weasel Headaches"
-tags: [fifty-sixth-week]
-author: Brennan Brown
+title: 'Fifty-Six: Weasel Headaches'
+date: 2021-04-02 00:00:00 Z
 permalink: weasel-headaches
+tags:
+- fifty-sixth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
-
 
 **Week Fifty-six!** Last week, I made things easier for myself by enabling weekend breaks for a lot of my goals. So, I figured this week I'd try to balance that out by enabling weasel-proofing on a bunch of goals! Including **/poetry**, **/github,** and **/fitness**. 
 

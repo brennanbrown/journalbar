@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Thirty-Five: Beginning a Garden"
-tags: [thirty-fifth-week]
-author: Brennan Brown
+title: 'Thirty-Five: Beginning a Garden'
+date: 2020-10-27 00:00:00 Z
 permalink: beginning-a-garden
+tags:
+- thirty-fifth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

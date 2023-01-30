@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Fifty-One: The Current Metasystem"
-tags: [fifty-first-week]
-author: Brennan Brown
+title: 'Fifty-One: The Current Metasystem'
+date: 2021-02-27 00:00:00 Z
 permalink: current
+tags:
+- fifty-first-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

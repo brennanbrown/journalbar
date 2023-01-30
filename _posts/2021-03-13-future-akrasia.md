@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Fifty-Three: Future Akrasia"
-tags: [fifty-third-week]
-author: Brennan Brown
+title: 'Fifty-Three: Future Akrasia'
+date: 2021-03-13 00:00:00 Z
 permalink: future-akrasia
+tags:
+- fifty-third-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

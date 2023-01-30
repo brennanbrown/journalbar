@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Thirty-Eight: Obsidian Highlights"
-tags: [thirty-eighth-week]
-author: Brennan Brown
+title: 'Thirty-Eight: Obsidian Highlights'
+date: 2020-11-17 00:00:00 Z
 permalink: obsidian-highlights
+tags:
+- thirty-eighth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

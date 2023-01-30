@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Forty-Eight: Intuitive Productivity"
-tags: [forty-eigth-week]
-author: Brennan Brown
+title: 'Forty-Eight: Intuitive Productivity'
+date: 2021-01-29 00:00:00 Z
 permalink: intuitive-productivity
+tags:
+- forty-eigth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

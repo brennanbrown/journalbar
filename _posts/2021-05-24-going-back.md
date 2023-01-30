@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Sixty-three: Going Back"
-tags: [sixty-third-week]
-author: Brennan Brown
+title: 'Sixty-three: Going Back'
+date: 2021-05-24 00:00:00 Z
 permalink: going-back
+tags:
+- sixty-third-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

@@ -1,49 +1,45 @@
-title: "Journal.Kim"
+---
+title: Journal.Kim
+timezone: UTC
+collections:
+  pages:
+    title: Pages
+    output: true
+    permalink: "/:title"
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 author: Brennan K. Brown
 email: mail@brennanbrown.ca
-description: "A personal blog for self-quantification via Beeminder. Powered by Jekyll. "
-baseurl: ""
-url: "https://journal.kim"
+description: 'A personal blog for self-quantification via Beeminder. Powered by Jekyll. '
+baseurl: ''
+url: https://journal.kim
 repository: https://github.com/brennanbrown/journalbar
 twitter: https://twitter.com/brennankbrown/
 github: https://github.com/brennanbrown
-
 paginate: 6
 paginate_path: "/:num/"
-
 port: 4040
-
-# Build settings
 kramdown:
   input: GFM
-
 google_analytics: UA-54919711-3
 disqus: journal-bar
 comments: true
-
-# Build settings
-theme: null
+theme: 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-paginate
-permalink: /:title
-
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-paginate
+permalink: "/:title"
 theme_switcher: false
-
-# Allows all pages to be put into `_pages` folder
-# for easier navigation and better SEO.
-collections:
-  pages:
-    output: true
-    permalink: /:title
-
-# Exclude from processing.
 exclude:
-  - ".jekyll-cache"
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "vendor"
-  - "LICENSE"
-  - "README.md"
-  - "CNAME"
+- ".jekyll-cache"
+- Gemfile
+- Gemfile.lock
+- vendor
+- LICENSE
+- README.md
+- CNAME

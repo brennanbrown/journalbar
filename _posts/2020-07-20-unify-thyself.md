@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Twenty-One: Unify Thyself"
-tags: [twenty-first-week]
-author: Brennan Brown
+title: 'Twenty-One: Unify Thyself'
+date: 2020-07-20 00:00:00 Z
 permalink: unify-thyself
+tags:
+- twenty-first-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Sixty-five: Necessary Recalibration"
-tags: [sixty-fifth-week]
-author: Brennan Brown
+title: 'Sixty-five: Necessary Recalibration'
+date: 2021-06-11 00:00:00 Z
 permalink: necessary-recalibration
+tags:
+- sixty-fifth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
-
 
 **Week Sixty-five!** I haven't written in quite a while, and there are a few reasons for that. Trying to increase certain goals quickly has totally thrown off my momentum with everything. I've been so busy trying to keep up with the bare minimum that a lot has gone neglected. 
 

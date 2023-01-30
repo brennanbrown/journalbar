@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Fifty-Eight: No Slippery Slopes"
-tags: [fifty-eigthh-week]
-author: Brennan Brown
+title: 'Fifty-Eight: No Slippery Slopes'
+date: 2021-04-16 00:00:00 Z
 permalink: no-slippery-slopes
+tags:
+- fifty-eigthh-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
-
 
 **Week Fifty-eight!** I've been largely working on the redesign of my personal website this week--and as I quoted Carl Sagan in [entry #24](https://journal.kim/apple-pie), to make anything from scratch, you must first invent the universe. Which as been a little overwhelming for me. But I have finally begun to find my footing in the work.
 

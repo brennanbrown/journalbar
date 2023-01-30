@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Thirty-Seven: Garden Weeds"
-tags: [thirty-seventh-week]
-author: Brennan Brown
+title: 'Thirty-Seven: Garden Weeds'
+date: 2020-11-10 00:00:00 Z
 permalink: garden-weeds
+tags:
+- thirty-seventh-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

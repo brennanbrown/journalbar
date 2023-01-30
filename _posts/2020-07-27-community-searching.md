@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Twenty-Two: Community Searching"
-tags: [twenty-second-week]
-author: Brennan Brown
+title: 'Twenty-Two: Community Searching'
+date: 2020-07-27 00:00:00 Z
 permalink: community-searching
+tags:
+- twenty-second-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
-
 
 **Week Twenty-two!** As someone who's inherently anti-authoritarian, it's weird to be happy about how the status quo and how its been going. I don't really have much to say in the way of updates, since everything is working as intended. 
 

@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Thirty-Two: New Discoveries"
-tags: [thirty-second-week]
-author: Brennan Brown
+title: 'Thirty-Two: New Discoveries'
+date: 2020-10-06 00:00:00 Z
 permalink: new-discoveries
+tags:
+- thirty-second-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

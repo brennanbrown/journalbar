@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Thirty-Nine: Collecting Notes"
-tags: [thirty-ninth-week]
-author: Brennan Brown
+title: 'Thirty-Nine: Collecting Notes'
+date: 2020-11-25 00:00:00 Z
 permalink: collecting-notes
+tags:
+- thirty-ninth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

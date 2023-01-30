@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Fifty: Recalibration"
-tags: [fiftieth-week]
-author: Brennan Brown
+title: 'Fifty: Recalibration'
+date: 2021-02-20 00:00:00 Z
 permalink: recalibration
+tags:
+- fiftieth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

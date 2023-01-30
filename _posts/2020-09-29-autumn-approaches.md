@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Thirty-One: Autumn Approaches"
-tags: [thirty-first-week]
-author: Brennan Brown
+title: 'Thirty-One: Autumn Approaches'
+date: 2020-09-29 00:00:00 Z
 permalink: autumn-approaches
+tags:
+- thirty-first-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
-
 
 **Week Thirty-one!** Another rather quiet week. I have to say, autumn is my favorite year, but I always find it more difficult to be productive as the days get shorter and colder. But that seems to be rather universal. More specifically I'm finding it a lot easier to be productive at night than during the day, and I'm not sure why that is.
 

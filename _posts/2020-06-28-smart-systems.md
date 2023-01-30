@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Eighteen: SMART Systems"
-tags: [eighteenth-week]
-author: Brennan Brown
+title: 'Eighteen: SMART Systems'
+date: 2020-06-28 00:00:00 Z
 permalink: smart-systems
+tags:
+- eighteenth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

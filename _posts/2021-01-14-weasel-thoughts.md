@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Forty-Six: Weasel Thoughts"
-tags: [forty-sixth-week]
-author: Brennan Brown
+title: 'Forty-Six: Weasel Thoughts'
+date: 2021-01-14 00:00:00 Z
 permalink: weasel-thoughts
+tags:
+- forty-sixth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

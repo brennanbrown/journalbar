@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Ten: Distillery"
-tags: [tenth-week]
-author: Brennan Brown
+title: 'Ten: Distillery'
+date: 2020-05-06 00:00:00 Z
 permalink: distillery
+tags:
+- tenth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

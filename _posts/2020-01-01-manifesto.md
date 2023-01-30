@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "My Personal Manifesto"
-tags: [Rulebook, Meta]
-author: Brennan Brown
+title: My Personal Manifesto
+date: 2020-01-01 00:00:00 Z
 permalink: manifesto
+tags:
+- Rulebook
+- Meta
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

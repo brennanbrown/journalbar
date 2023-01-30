@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Twenty-Three: Identity Risk"
-tags: [twenty-third-week]
-author: Brennan Brown
+title: 'Twenty-Three: Identity Risk'
+date: 2020-08-03 00:00:00 Z
 permalink: identity-risk
+tags:
+- twenty-third-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

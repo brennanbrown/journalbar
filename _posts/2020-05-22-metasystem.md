@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Thirteen: The Meta System"
-tags: [thirteenth-week]
-author: Brennan Brown
+title: 'Thirteen: The Meta System'
+date: 2020-05-22 00:00:00 Z
 permalink: metasystem
+tags:
+- thirteenth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

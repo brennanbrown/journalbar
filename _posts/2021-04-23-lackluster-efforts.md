@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Fifty-Nine: Lackluster Efforts"
-tags: [fifty-ninth-week]
-author: Brennan Brown
+title: 'Fifty-Nine: Lackluster Efforts'
+date: 2021-04-23 00:00:00 Z
 permalink: lackluster-efforts
+tags:
+- fifty-ninth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

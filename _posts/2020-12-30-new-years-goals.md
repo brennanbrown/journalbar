@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Forty-Four: New Years Goals!"
-tags: [forty-forth-week]
-author: Brennan Brown
+title: 'Forty-Four: New Years Goals!'
+date: 2020-12-30 00:00:00 Z
 permalink: new-years-goals
+tags:
+- forty-forth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

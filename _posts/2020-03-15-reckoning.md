@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Five: A Reckoning"
-tags: [fifth-week]
-author: Brennan Brown
+title: 'Five: A Reckoning'
+date: 2020-03-15 00:00:00 Z
 permalink: reckoning
+tags:
+- fifth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 

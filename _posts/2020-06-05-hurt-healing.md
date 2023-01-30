@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Fifteen: Hurt and Healing"
-tags: [fifteenth-week]
-author: Brennan Brown
+title: 'Fifteen: Hurt and Healing'
+date: 2020-06-05 00:00:00 Z
 permalink: hurt-healing
+tags:
+- fifteenth-week
+layout: post
+author: Brennan Brown
 comment: true
 ---
 
