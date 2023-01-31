@@ -9,7 +9,7 @@ footer,
 }
 
 mark {
-    background-color: #fcffb3;
+    background-color: #bedaf7;
 }
 
 code {
@@ -19,7 +19,7 @@ code {
 }
 
 blockquote {
-    background-color: #ffd;
+    background-color: #bedaf7;
     border-left: 2px solid black;
     padding: 0 10px;
     font-style: italic;
@@ -35,12 +35,14 @@ a {
     color: #456a8f
 }
 
-a:visited, header nav a:visited {
+a:visited,
+header nav a:visited {
     color: #53458f;
 }
 
 a:hover {
     color: #6d9bc9;
+    text-decoration: none;
 }
 
 .site-intro {
@@ -65,7 +67,7 @@ a:hover {
 
 #title a:hover {
     background-color: #555;
-    color: #fcffb3;
+    color: #6d9bc9;
 }
 
 #quote {
@@ -83,13 +85,10 @@ a:hover {
 #navigation a {
     font-weight: bold;
     font-size: 20px;
-    margin-top: -5px;
-    padding-right: 10px;
 }
 
 #pages {
     text-align: center;
-    margin-top: 30px;
     font-size: 24px;
 }
 
@@ -98,17 +97,7 @@ a:hover {
     font-weight: bold;
 }
 
-#current-page {
-    padding: 0px 15px;
-}
-
-hr {
-    border-top: 1px solid grey;
-    max-width: 78ch;
-    margin: auto;
-    margin-top: 5px;
-    margin-bottom: -20px;
-}
+#current-page {}
 
 /* ACCESSIBILITY */
 a.skip-main {
