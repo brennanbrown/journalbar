@@ -4,7 +4,7 @@ date: 2022-01-01 00:00:00 Z
 permalink: where-i-have-been
 tags:
 - new start
-layout: post
+layout: null
 author: Brennan Brown
 comment: true
 ---
