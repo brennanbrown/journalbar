@@ -72,7 +72,7 @@ comment: true
 * Ego will often create irrelevant fear.
 * Pleasure for it's own sake is wasteful.
 * A partial feeling can never be depended upon.
-* egret only stunts growth.
+* Regret only stunts growth.
 * Jealousy only hinders the self.
 * Separation cannot always be reconciled.
 * Lust or love are never good guides.
