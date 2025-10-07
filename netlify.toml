@@ -1,0 +1,57 @@
+# Netlify configuration for journal.kim
+# https://docs.netlify.com/configure-builds/file-based-configuration/
+
+[build]
+  # Build command for Jekyll
+  command = "bundle exec jekyll build"
+  
+  # Directory to publish
+  publish = "_site"
+  
+  # Environment variables
+  [build.environment]
+    RUBY_VERSION = "3.0.0"
+    JEKYLL_ENV = "production"
+
+# Redirect rules
+[[redirects]]
+  from = "/minibook"
+  to = "/minibook/"
+  status = 301
+
+# Headers for security and performance
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Custom domain settings
+[[redirects]]
+  from = "https://journalbar.netlify.app/*"
+  to = "https://journal.kim/:splat"
+  status = 301
+  force = true
+
+# 404 page
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
