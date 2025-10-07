@@ -1,81 +1,135 @@
+/* ================================
+   MODERN CODE SYNTAX HIGHLIGHTING
+   Updated: October 2025
+   Theme: Modern Vibrant
+   ================================ */
+
+/* Code block container */
+.highlight {
+  background: linear-gradient(135deg, #1e1e2e 0%, #27273f 100%);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  overflow-x: auto;
+  position: relative;
+  border: 1px solid rgba(102, 126, 234, 0.2);
+}
+
+.highlight::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #667eea, #764ba2, #f5576c, #4facfe);
+  border-radius: 12px 12px 0 0;
+}
+
 .highlight table td {
   padding: 5px;
 }
 
 .highlight table pre {
   margin: 0;
+  background: transparent;
 }
 
+/* Base text */
 .highlight,
 .highlight .w {
-  color: #586e75;
+  color: #e5e9f0;
 }
 
+/* Errors */
 .highlight .err {
-  color: #002b36;
-  background-color: #dc322f;
+  color: #ff6b6b;
+  background-color: rgba(255, 107, 107, 0.1);
+  border-radius: 3px;
+  padding: 2px 4px;
 }
 
+/* Comments */
 .highlight .c,
 .highlight .cd,
 .highlight .cm,
 .highlight .c1,
 .highlight .cs {
-  color: #657b83;
+  color: #6c7a96;
+  font-style: italic;
 }
 
+/* Preprocessor */
 .highlight .cp {
-  color: #b58900;
+  color: #f093fb;
+  font-weight: 600;
 }
 
+/* Tags */
 .highlight .nt {
-  color: #b58900;
+  color: #4facfe;
+  font-weight: 600;
 }
 
+/* Operators */
 .highlight .o,
 .highlight .ow {
-  color: #93a1a1;
+  color: #f5576c;
+  font-weight: 600;
 }
 
+/* Punctuation */
 .highlight .p,
 .highlight .pi {
-  color: #93a1a1;
+  color: #a8b5d1;
 }
 
+/* Insertions */
 .highlight .gi {
-  color: #859900;
+  color: #43e97b;
+  background-color: rgba(67, 233, 123, 0.1);
 }
 
+/* Deletions */
 .highlight .gd {
-  color: #dc322f;
+  color: #ff6b6b;
+  background-color: rgba(255, 107, 107, 0.1);
 }
 
+/* Headings */
 .highlight .gh {
-  color: #268bd2;
-  background-color: #002b36;
+  color: #667eea;
   font-weight: bold;
+  text-decoration: underline;
 }
 
+/* Keywords */
 .highlight .k,
 .highlight .kn,
 .highlight .kp,
 .highlight .kr,
 .highlight .kv {
-  color: #6c71c4;
+  color: #bb9af7;
+  font-weight: 600;
 }
 
 .highlight .kc {
-  color: #cb4b16;
+  color: #ff9e64;
+  font-weight: 600;
 }
 
 .highlight .kt {
-  color: #cb4b16;
+  color: #4facfe;
+  font-weight: 600;
 }
 
 .highlight .kd {
-  color: #cb4b16;
+  color: #f5576c;
+  font-weight: 600;
 }
 
+/* Strings */
 .highlight .s,
 .highlight .sb,
 .highlight .sc,
@@ -84,37 +138,41 @@
 .highlight .sh,
 .highlight .sx,
 .highlight .s1 {
-  color: #859900;
+  color: #43e97b;
 }
 
 .highlight .sr {
-  color: #2aa198;
+  color: #00f2fe;
 }
 
 .highlight .si {
-  color: #d33682;
+  color: #f093fb;
 }
 
 .highlight .se {
-  color: #d33682;
+  color: #ff9e64;
+  font-weight: 600;
 }
 
+/* Names */
 .highlight .nn {
-  color: #b58900;
+  color: #f093fb;
 }
 
 .highlight .nc {
-  color: #b58900;
+  color: #4facfe;
+  font-weight: 600;
 }
 
 .highlight .no {
-  color: #b58900;
+  color: #ff9e64;
 }
 
 .highlight .na {
-  color: #268bd2;
+  color: #00f2fe;
 }
 
+/* Numbers */
 .highlight .m,
 .highlight .mf,
 .highlight .mh,
@@ -123,9 +181,79 @@
 .highlight .mo,
 .highlight .mb,
 .highlight .mx {
-  color: #859900;
+  color: #ff9e64;
+  font-weight: 500;
 }
 
+/* Symbols */
 .highlight .ss {
-  color: #859900;
+  color: #43e97b;
+}
+
+/* Functions */
+.highlight .nf {
+  color: #00f2fe;
+  font-weight: 600;
+}
+
+/* Variables */
+.highlight .nv,
+.highlight .nb,
+.highlight .bp {
+  color: #4facfe;
+}
+
+/* Line numbers */
+.highlight .lineno {
+  color: #6c7a96;
+  padding-right: 1rem;
+  user-select: none;
+  border-right: 1px solid rgba(102, 126, 234, 0.2);
+  margin-right: 1rem;
+}
+
+/* Inline code (not in highlight blocks) */
+:not(.highlight) > code {
+  background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
+  color: #667eea;
+  padding: 3px 8px;
+  border-radius: 4px;
+  border: 1px solid #e2e8f0;
+  font-family: 'Monaco', 'Menlo', 'Consolas', 'Courier New', monospace;
+  font-size: 0.9em;
+  font-weight: 600;
+}
+
+/* Code block scrollbar styling */
+.highlight::-webkit-scrollbar {
+  height: 8px;
+}
+
+.highlight::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+
+.highlight::-webkit-scrollbar-thumb {
+  background: linear-gradient(90deg, #667eea, #764ba2);
+  border-radius: 4px;
+}
+
+.highlight::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(90deg, #764ba2, #667eea);
+}
+
+/* Language label (if present) */
+.highlight .language-name {
+  position: absolute;
+  top: 8px;
+  right: 12px;
+  background: rgba(102, 126, 234, 0.2);
+  color: #4facfe;
+  padding: 4px 12px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
