@@ -1,5 +1,9 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-54919711-3"></script>
+<!-- Google Analytics 4 -->
+<!-- Note: Replace UA-54919711-3 with your GA4 measurement ID (format: G-XXXXXXXXXX) -->
+<!-- Universal Analytics (UA-) has been sunset by Google as of July 1, 2023 -->
+<!-- To get your GA4 ID, visit: https://analytics.google.com/analytics/web/ -->
+{% if site.google_analytics %}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
 
@@ -8,5 +12,6 @@
     }
     gtag("js", new Date());
 
-    gtag("config", "UA-54919711-3");
+    gtag("config", "{{ site.google_analytics }}");
 </script>
+{% endif %}
