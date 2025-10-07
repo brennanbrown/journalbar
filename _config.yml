@@ -25,7 +25,10 @@ paginate_path: "/:num/"
 port: 4040
 kramdown:
   input: GFM
-google_analytics: UA-54919711-3
+# Google Analytics: Update to GA4 (format: G-XXXXXXXXXX)
+# Universal Analytics (UA-) was sunset July 1, 2023
+# Get your GA4 ID at: https://analytics.google.com/analytics/web/
+google_analytics: UA-54919711-3  # TODO: Replace with GA4 measurement ID
 disqus: journal-bar
 comments: true
 theme: 
