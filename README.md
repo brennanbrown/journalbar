@@ -20,11 +20,13 @@ I’ve decided to begin this meta-accountability experiement, where I’ll repor
 
 Jekyll requires the following:
 
-- Ruby version **2.5.0** or higher
+- Ruby version **2.7.0** or higher (3.0+ recommended)
 - RubyGems
 - GCC and Make
 
 See [Requirements](https://jekyllrb.com/docs/installation/#requirements) for guides and details.
+
+**Note:** This site has been recently updated to Jekyll 4.3.4 with modern dependencies and security improvements.
 
 ### Instructions
 
@@ -65,6 +67,15 @@ bundle exec jekyll serve
 
 If you encounter any errors during this process, check that you have installed all the prerequisites in [Requirements](https://jekyllrb.com/docs/installation/#requirements).
 If you still have issues, see [Troubleshooting](https://jekyllrb.com/docs/troubleshooting/#configuration-problems).
+
+## Support This Project
+
+If you find value in this experiment and documentation, consider supporting my work:
+
+- ☕ [Buy me a coffee on Ko-fi](https://ko-fi.com/brennan)
+- ❤️ [Sponsor on GitHub](https://github.com/sponsors/brennanbrown)
+
+Your support helps me continue creating free resources and tools for the productivity community.
 
 ## Credit
 
