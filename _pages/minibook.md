@@ -270,6 +270,129 @@ permalink: /minibook/
 .key-lessons strong {
     color: white !important;
 }
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .minibook-container {
+        padding: 0;
+        max-width: 100%;
+    }
+    
+    .minibook-hero {
+        padding: 2rem 1rem;
+        margin-bottom: 1.5rem;
+    }
+    
+    .minibook-hero h1 {
+        font-size: 1.8rem;
+        word-break: break-word;
+    }
+    
+    .minibook-hero .subtitle {
+        font-size: 1.1rem;
+    }
+    
+    .minibook-hero .stats {
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+    }
+    
+    .stat-item {
+        padding: 0.75rem;
+    }
+    
+    .stat-number {
+        font-size: 1.5rem;
+    }
+    
+    .stat-label {
+        font-size: 0.8rem;
+    }
+    
+    .download-section {
+        padding: 1.5rem 1rem;
+        margin-bottom: 1.5rem;
+    }
+    
+    .download-buttons {
+        flex-direction: column;
+    }
+    
+    .download-btn {
+        width: 100%;
+        padding: 0.75rem 1rem;
+        font-size: 1rem;
+    }
+    
+    .content-section {
+        padding: 1.5rem 1rem;
+        margin-bottom: 1.5rem;
+    }
+    
+    .content-section h2 {
+        font-size: 1.5rem;
+        word-break: break-word;
+    }
+    
+    .content-section h3 {
+        font-size: 1.2rem;
+    }
+    
+    .metric-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+    .metric-card {
+        padding: 1rem;
+    }
+    
+    .metric-value {
+        font-size: 1.5rem;
+    }
+    
+    .schedule-list li {
+        padding-left: 3rem;
+        margin-bottom: 1.5rem;
+        font-size: 0.95rem;
+    }
+    
+    .schedule-list li::before {
+        width: 2.5rem;
+        height: 2.5rem;
+        font-size: 1.1rem;
+    }
+    
+    .schedule-list li strong {
+        font-size: 1rem;
+    }
+    
+    .quote-box {
+        padding: 1rem;
+        margin: 1rem 0;
+    }
+    
+    .quote-box p {
+        font-size: 1rem;
+    }
+    
+    .key-lessons {
+        padding: 1.5rem 1rem;
+    }
+    
+    .key-lessons h3 {
+        font-size: 1.2rem;
+    }
+    
+    .key-lessons li {
+        font-size: 0.95rem;
+        padding-left: 1.5rem;
+    }
+    
+    .highlight-box {
+        padding: 1rem;
+    }
+}
 </style>
 
 <div class="minibook-container">

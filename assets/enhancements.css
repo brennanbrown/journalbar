@@ -134,26 +134,55 @@
 /* Responsive CTA */
 @media (max-width: 768px) {
     .minibook-cta {
-        padding: 1.5rem;
+        padding: 1rem;
+        margin: 1rem 0;
     }
     
     .minibook-cta-content {
         grid-template-columns: 1fr;
         text-align: center;
-        gap: 1.5rem;
+        gap: 1rem;
     }
     
     .minibook-cta-icon {
-        font-size: 3rem;
+        font-size: 2.5rem;
     }
     
     .minibook-cta-text h3 {
-        font-size: 1.3rem;
+        font-size: 1.2rem;
+        word-break: break-word;
+    }
+    
+    .minibook-cta-text p {
+        font-size: 0.95rem;
     }
     
     .minibook-cta-button {
         width: 100%;
         justify-content: center;
+        white-space: normal;
+        padding: 0.75rem 1rem;
+        font-size: 1rem;
+    }
+    
+    /* Better stats grid on mobile */
+    .stats-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+    .stat-card {
+        padding: 1.5rem;
+    }
+    
+    /* Post cards mobile */
+    .post-card {
+        padding: 1rem;
+        margin: 0.75rem 0;
+    }
+    
+    .post-card h3 {
+        font-size: 1.3rem;
     }
 }
 

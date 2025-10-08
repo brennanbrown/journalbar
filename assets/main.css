@@ -39,6 +39,8 @@ body {
     background: linear-gradient(to bottom, #f7fafc 0%, #edf2f7 100%);
     position: relative;
     font-family: 'Lora', Georgia, serif;
+    overflow-x: hidden;
+    max-width: 100vw;
 }
 
 /* Animated background pattern - static, no animation */
@@ -454,24 +456,81 @@ button, input, select, textarea {
     border-radius: 4px;
 }
 
+/* Better word wrapping for all text */
+* {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+/* Ensure all containers respect viewport */
+body, main, article, section, div, header, footer {
+    max-width: 100%;
+}
+
+/* Better table handling on mobile */
+table {
+    display: block;
+    overflow-x: auto;
+    max-width: 100%;
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
+    body {
+        padding: 0 0.5rem;
+    }
+    
     #navigation a {
         display: block;
         margin: 0.5rem 0;
     }
     
     .post {
-        padding: 1.5rem;
+        padding: 1rem;
+        margin: 0.5rem 0;
     }
     
     #quote {
-        font-size: 1rem;
+        font-size: 0.95rem;
         padding: 1rem;
+        max-width: 100%;
     }
     
     h1 {
         font-size: 1.8rem;
+        word-break: break-word;
+    }
+    
+    h2 {
+        font-size: 1.5rem;
+    }
+    
+    /* Ensure pre/code blocks don't overflow */
+    pre {
+        max-width: 100%;
+        overflow-x: auto;
+    }
+    
+    pre code {
+        white-space: pre-wrap;
+        word-break: break-all;
+    }
+    
+    /* Fix long links */
+    a {
+        word-break: break-word;
+        overflow-wrap: anywhere;
+    }
+    
+    /* Better blockquote mobile handling */
+    blockquote {
+        padding: 1rem;
+        margin: 1rem 0;
+    }
+    
+    blockquote::before {
+        font-size: 2.5rem;
+        left: 10px;
     }
 }
 
