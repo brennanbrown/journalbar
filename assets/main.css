@@ -489,9 +489,14 @@ table {
         padding: 0 0.5rem;
     }
     
+    #navigation {
+        font-size: 0; /* Hide text nodes (slashes) */
+    }
+    
     #navigation a {
         display: block;
         margin: 0.5rem 0;
+        font-size: 0.95rem; /* Restore font size for links */
     }
     
     .post {

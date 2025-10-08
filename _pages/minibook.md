@@ -12,7 +12,6 @@ permalink: /minibook/
 }
 
 .minibook-hero {
-    text-align: center;
     padding: 3rem 1.5rem;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
