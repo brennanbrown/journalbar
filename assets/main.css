@@ -494,9 +494,8 @@ table {
     }
     
     #navigation a {
-        display: block;
-        margin: 0.5rem 0;
         font-size: 0.95rem; /* Restore font size for links */
+        margin: 0.25rem;
     }
     
     .post {
