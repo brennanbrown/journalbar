@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Specify Ruby version for better compatibility
-ruby "~> 3.3.0"
+ruby "~> 3.2.3"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
