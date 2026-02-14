@@ -1,20 +1,20 @@
-# Resume Entry: Journal.kim
+# Resume Entry: Beejournal
 
 ## Position Title Options
 
 Choose the one that best fits your resume:
 
-1. **Self-Tracking & Productivity Writer** | Journal.kim
-2. **Technical Writer & Data Analyst** | Journal.kim
-3. **Digital Content Creator & Systems Designer** | Journal.kim
-4. **Productivity Blogger & Quantified Self Researcher** | Journal.kim
+1. **Self-Tracking & Productivity Writer** | Beejournal
+2. **Technical Writer & Data Analyst** | Beejournal
+3. **Digital Content Creator & Systems Designer** | Beejournal
+4. **Productivity Blogger & Quantified Self Researcher** | Beejournal
 
 ---
 
 ## Recommended Resume Entry
 
 ### Self-Tracking & Productivity Writer
-**Journal.kim** | February 2020 - January 2022  
+**Beejournal** | February 2020 - January 2022  
 *Remote*
 
 **Metrics-Driven Achievements:**
@@ -22,7 +22,7 @@ Choose the one that best fits your resume:
 - Maintained **26 simultaneous behavioral tracking systems** using Beeminder platform, demonstrating advanced project management and data analysis capabilities
 - Generated **160,000+ words** of technical documentation and analysis at sustained rate of **450 words/day**
 - Developed and documented replicable productivity framework adopted by members of Beeminder community
-- Built and maintained **Jekyll-based static site** hosted on Netlify (journal.kim) with custom CSS, JavaScript, and responsive design
+- Built and maintained **Jekyll-based static site** hosted on Netlify (beejournal.netlify.app) with custom CSS, JavaScript, and responsive design
 - Managed **700+ GitHub commits** maintaining site infrastructure, documentation, and open-source contributions
 - Integrated multiple tracking APIs and automation tools (RescueTime, IFTTT, GitHub API, Fitbit) to create comprehensive data pipeline
 
@@ -45,7 +45,7 @@ Choose the one that best fits your resume:
 ## Alternative Format (More Concise)
 
 ### Digital Content Creator & Productivity Analyst
-**Journal.kim** | Feb 2020 - Jan 2022
+**Beejournal** | Feb 2020 - Jan 2022
 
 - Authored **70 weekly technical blog posts** (160,000+ words) documenting 24-month self-tracking experiment
 - Designed and maintained **26 simultaneous data collection systems** with 100% uptime
@@ -74,7 +74,7 @@ Choose the one that best fits your resume:
 - Logged 1,200+ productive hours via RescueTime integration
 
 **Technical Development:**
-- Built and maintained Jekyll static site hosted on Netlify (journal.kim)
+- Built and maintained Jekyll static site hosted on Netlify (beejournal.netlify.app)
 - Managed 700+ GitHub commits for version control and documentation
 - Integrated multiple APIs: RescueTime, IFTTT, GitHub, Fitbit, Duolingo, Clozemaster
 - Developed custom CSS and JavaScript for responsive web design
@@ -117,7 +117,7 @@ Choose the one that best fits your resume:
 
 ## LinkedIn Summary Version
 
-**Self-Tracking & Productivity Writer | Journal.kim**  
+**Self-Tracking & Productivity Writer | Beejournal**  
 Feb 2020 - Jan 2022
 
 Conducted comprehensive 24-month self-improvement experiment combining data science, behavioral psychology, and technical writing. Published 70 consecutive weekly blog posts (160,000+ words) documenting the maintenance of 26 simultaneous habit-tracking systems.
@@ -163,7 +163,7 @@ Developed replicable productivity framework adopted by quantified self community
 > "In 2017, I failed spectacularly at using Beeminder for goal-tracking. Instead of giving up, I analyzed what went wrong—I lacked meta-accountability and public transparency. In 2020, I restarted with a new approach: weekly blog posts documenting everything. This transparency transformed my success rate. I went from maintaining zero goals to 26 simultaneous habits, proving that failure plus analysis equals learning."
 
 **"How do you stay organized?"**
-> "I use systems thinking and automation. For my Journal.kim project, I integrated RescueTime, GitHub, Fitbit, and IFTTT to automatically collect data, reducing manual entry. I maintained a single source of truth for all planning—no scattered notebooks. I also implemented 'meta-accountability': tracking the tracking itself through weekly blog posts. This approach let me manage 26 simultaneous projects while working full-time and attending school."
+> "I use systems thinking and automation. For my Beejournal project, I integrated RescueTime, GitHub, Fitbit, and IFTTT to automatically collect data, reducing manual entry." I maintained a single source of truth for all planning—no scattered notebooks. I also implemented 'meta-accountability': tracking the tracking itself through weekly blog posts. This approach let me manage 26 simultaneous projects while working full-time and attending school."
 
 ---
 
@@ -179,7 +179,7 @@ Developed replicable productivity framework adopted by quantified self community
 - **Productivity:** 1,200+ productive hours tracked
 - **Languages:** 12,000+ Duolingo XP, 25,000+ Clozemaster points
 - **Weight Loss:** 15 lbs in 5 months
-- **Site Traffic:** Custom Jekyll site hosted at journal.kim
+- **Site Traffic:** Custom Jekyll site hosted at beejournal.netlify.app
 - **Community:** Guest posts on Beeminder blog, Mini book guide created
 
 ---

@@ -1,5 +1,5 @@
 # Brennan's Most Impressive Metrics
-**Journal.Kim Blog Analysis**  
+**Beejournal Blog Analysis**  
 **Tracking Period:** January 2020 - January 2022 (24 months)  
 **Total Blog Posts:** 70 weekly journal entries  
 **Total Words in Blog:** 38,526 words
@@ -25,7 +25,7 @@
 - **450 words/day** sustained writing rate
 - **50+ poems** published to poetry blog
 - **24+ blog posts** published to Medium
-- **70 weekly journal entries** on Journal.Kim
+- **70 weekly journal entries** on Beejournal
 - Maintained **1 post/week** blog cadence for over a year
 
 **Writing Systems:**
@@ -175,7 +175,7 @@
 
 **Personal Projects:**
 - Built **personal web portfolio** from scratch in 3 weeks
-- Migrated blog from journal.bar to journal.kim
+- Migrated blog from journal.bar to beejournal.netlify.app
 - Explored Jekyll, then Eleventy for site generation
 - Developed comprehensive **Notion workspace** for curation
 - Created **Commonplace** system for knowledge management
@@ -305,4 +305,4 @@ The real metric isn't any single number—it's the **complete life transformatio
 
 **Last Updated:** October 7, 2025  
 **Compiled From:** 70 blog posts spanning 24 months of self-tracking  
-**Source:** Journal.Kim blog (journal-bar repository)
+**Source:** Beejournal blog (journal-bar repository)
