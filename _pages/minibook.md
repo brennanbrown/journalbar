@@ -13,11 +13,11 @@ permalink: /minibook/
 
 .minibook-hero {
     padding: 3rem 1.5rem;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
     color: white;
     border-radius: 16px;
     margin-bottom: 3rem;
-    box-shadow: 0 10px 40px rgba(102, 126, 234, 0.3);
+    box-shadow: 0 10px 40px rgba(245, 158, 11, 0.3);
 }
 
 .minibook-hero h1 {
@@ -89,20 +89,20 @@ permalink: /minibook/
     align-items: center;
     gap: 0.5rem;
     padding: 1rem 2rem;
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #f59e0b, #d97706);
     color: white !important;
     text-decoration: none;
     border-radius: 50px;
     font-weight: 600;
     font-size: 1.1rem;
     transition: all 0.3s ease;
-    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+    box-shadow: 0 4px 15px rgba(245, 158, 11, 0.3);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .download-btn:hover {
     transform: translateY(-3px);
-    box-shadow: 0 8px 25px rgba(102, 126, 234, 0.5);
+    box-shadow: 0 8px 25px rgba(245, 158, 11, 0.5);
 }
 
 .download-btn.secondary {
@@ -118,7 +118,7 @@ permalink: /minibook/
 }
 
 .content-section h2 {
-    color: #667eea;
+    color: #d97706;
     font-size: 2rem;
     margin-bottom: 1.5rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -133,10 +133,10 @@ permalink: /minibook/
 }
 
 .highlight-box {
-    background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1));
+    background: linear-gradient(135deg, rgba(245, 158, 11, 0.1), rgba(217, 119, 6, 0.1));
     padding: 1.5rem;
     border-radius: 12px;
-    border-left: 4px solid #667eea;
+    border-left: 4px solid #d97706;
     margin: 2rem 0;
 }
 
@@ -151,11 +151,11 @@ permalink: /minibook/
     background: linear-gradient(135deg, #f7fafc, #edf2f7);
     padding: 1.5rem;
     border-radius: 12px;
-    border-top: 3px solid #667eea;
+    border-top: 3px solid #d97706;
 }
 
 .metric-card h4 {
-    color: #667eea;
+    color: #d97706;
     margin-bottom: 0.5rem;
     font-size: 1.1rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -189,7 +189,7 @@ permalink: /minibook/
     top: 0;
     width: 3rem;
     height: 3rem;
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #f59e0b, #d97706);
     color: white;
     border-radius: 50%;
     display: flex;
@@ -202,7 +202,7 @@ permalink: /minibook/
 
 .schedule-list li strong {
     display: block;
-    color: #667eea;
+    color: #d97706;
     font-size: 1.2rem;
     margin-bottom: 0.5rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -212,7 +212,7 @@ permalink: /minibook/
     background: white;
     padding: 2rem;
     border-radius: 12px;
-    border-left: 4px solid #667eea;
+    border-left: 4px solid #d97706;
     margin: 2rem 0;
     font-style: italic;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
@@ -226,13 +226,13 @@ permalink: /minibook/
 
 .quote-author {
     text-align: right;
-    color: #718096;
+    color: #4a5568;
     font-weight: 600;
     font-size: 0.95rem;
 }
 
 .key-lessons {
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #f59e0b, #d97706);
     color: white;
     padding: 2.5rem;
     border-radius: 12px;
@@ -422,21 +422,27 @@ permalink: /minibook/
 </div>
 
 <div class="download-section">
-    <h2 style="color: #667eea; margin-bottom: 0.5rem;">📚 Download the Complete Guide</h2>
-    <p style="color: #718096; margin-bottom: 0;">Available in multiple formats for your convenience</p>
+    <h2 style="color: #d97706; margin-bottom: 0.5rem;">📚 Download the Complete Guide</h2>
+    <p style="color: #4a5568; margin-bottom: 0;">Available in multiple formats for your convenience</p>
     
     <div class="download-buttons">
-        <a href="#" class="download-btn" onclick="alert('PDF generation coming soon! For now, use your browser\'s Print to PDF feature.'); return false;">
-            📄 Download PDF
+        <a href="/downloads/The-Beeminder-Experiment.html" class="download-btn" target="_blank">
+            📄 View Printable Version
         </a>
-        <a href="#" class="download-btn secondary" onclick="alert('ePub generation coming soon!'); return false;">
-            📱 Download ePub
+        <a href="/downloads/The-Beeminder-Experiment.epub" class="download-btn secondary" download>
+            📱 Download ePUB
         </a>
     </div>
     
-    <p style="margin-top: 1rem; font-size: 0.9rem; color: #718096;">
-        <em>Tip: You can also use your browser's "Print to PDF" feature to save this page</em>
-    </p>
+    <div style="background: #f8fafc; border-left: 4px solid #d97706; padding: 1rem; margin: 1.5rem 0; border-radius: 8px;">
+        <h4 style="color: #d97706; margin-bottom: 0.5rem;">📋 How to Get Your PDF</h4>
+        <ol style="color: #4a5568; margin: 0; padding-left: 1.5rem;">
+            <li>Click "View Printable Version" to open the HTML version</li>
+            <li>Press <kbd style="background: #e2e8f0; padding: 2px 6px; border-radius: 3px;">Cmd+P</kbd> (Mac) or <kbd style="background: #e2e8f0; padding: 2px 6px; border-radius: 3px;">Ctrl+P</kbd> (Windows)</li>
+            <li>Choose "Save as PDF" from the print dialog</li>
+            <li>Adjust settings if needed, then save</li>
+        </ol>
+    </div>
 </div>
 
 <!-- Introduction -->
@@ -661,7 +667,7 @@ permalink: /minibook/
 </div>
 
 <!-- Call to Action -->
-<div class="content-section" style="text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1));">
+<div class="content-section" style="text-align: center; background: linear-gradient(135deg, rgba(245, 158, 11, 0.1), rgba(217, 119, 6, 0.1));">
     <h2>🚀 Ready to Start Your Own Experiment?</h2>
     <p style="font-size: 1.1rem; margin-bottom: 2rem;">Join the Beeminder community and transform your intentions into action.</p>
     
@@ -676,7 +682,7 @@ permalink: /minibook/
 </div>
 
 <!-- Support Section -->
-<div class="content-section" style="text-align: center; border: 2px solid #667eea;">
+<div class="content-section" style="text-align: center; border: 2px solid #d97706;">
     <h2>💜 Found This Helpful?</h2>
     <p style="font-size: 1.1rem; line-height: 1.7; max-width: 600px; margin: 0 auto 2rem;">
         This guide represents 24 months of daily effort, 70 weekly blog posts, and countless hours of self-experimentation. If you found value in these insights, consider supporting my work!
@@ -691,7 +697,7 @@ permalink: /minibook/
         </a>
     </div>
     
-    <p style="margin-top: 1.5rem; font-size: 0.95rem; color: #718096; font-style: italic;">
+    <p style="margin-top: 1.5rem; font-size: 0.95rem; color: #4a5568; font-style: italic;">
         Your support helps me continue creating free resources and tools for the productivity community.
     </p>
 </div>
