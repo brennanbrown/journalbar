@@ -1,5 +1,5 @@
 ---
-title: Journal.Kim
+title: Beejournal
 timezone: UTC
 collections:
   pages:
@@ -16,7 +16,7 @@ author: Brennan K. Brown
 email: mail@brennanbrown.ca
 description: 'A personal blog for self-quantification via Beeminder. Powered by Jekyll. '
 baseurl: ''
-url: https://journal.kim
+url: https://beejournal.netlify.app
 repository: https://github.com/brennanbrown/journalbar
 twitter: https://twitter.com/brennankbrown/
 github: https://github.com/brennanbrown

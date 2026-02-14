@@ -1,4 +1,4 @@
-# Netlify configuration for journal.kim
+# Netlify configuration for beejournal.netlify.app
 # https://docs.netlify.com/configure-builds/file-based-configuration/
 
 [build]
@@ -45,8 +45,8 @@
 
 # Custom domain settings
 [[redirects]]
-  from = "https://journalbar.netlify.app/*"
-  to = "https://journal.kim/:splat"
+  from = "https://journal.kim/*"
+  to = "https://beejournal.netlify.app/:splat"
   status = 301
   force = true
 
