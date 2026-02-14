@@ -1,5 +1,5 @@
 /**
- * Modern Interactive Features for Journal.Kim
+ * Modern Interactive Features for Beejournal
  * Updated: October 2025
  */
 
@@ -97,7 +97,7 @@ function addCopyButtons() {
             position: absolute;
             top: 10px;
             right: 10px;
-            background: linear-gradient(135deg, #667eea, #764ba2);
+            background: linear-gradient(135deg, #f59e0b, #d97706);
             color: white;
             border: none;
             padding: 0.5rem 1rem;
@@ -121,7 +121,7 @@ function addCopyButtons() {
                 
                 setTimeout(() => {
                     button.innerHTML = '📋 Copy';
-                    button.style.background = 'linear-gradient(135deg, #667eea, #764ba2)';
+                    button.style.background = 'linear-gradient(135deg, #f59e0b, #d97706)';
                 }, 2000);
             } catch (err) {
                 console.error('Failed to copy:', err);
@@ -131,7 +131,7 @@ function addCopyButtons() {
         
         button.addEventListener('mouseenter', () => {
             button.style.transform = 'scale(1.05)';
-            button.style.boxShadow = '0 4px 15px rgba(102, 126, 234, 0.4)';
+            button.style.boxShadow = '0 4px 15px rgba(245, 158, 11, 0.4)';
         });
         
         button.addEventListener('mouseleave', () => {
@@ -178,7 +178,7 @@ function addTableOfContents() {
         border-radius: 12px;
         box-shadow: 0 4px 6px rgba(0,0,0,0.1);
         border-left: 4px solid;
-        border-image: linear-gradient(135deg, #667eea, #764ba2) 1;
+        border-image: linear-gradient(135deg, #f59e0b, #d97706) 1;
     `;
     
     const title = document.createElement('h3');
@@ -202,16 +202,16 @@ function addTableOfContents() {
         const link = document.createElement('a');
         link.href = `#${id}`;
         link.textContent = heading.textContent;
-        link.style.cssText = 'color: #667eea; text-decoration: none; transition: all 0.3s;';
+        link.style.cssText = 'color: #f59e0b; text-decoration: none; transition: all 0.3s;';
         
         link.addEventListener('mouseenter', () => {
             link.style.transform = 'translateX(5px)';
-            link.style.color = '#764ba2';
+            link.style.color = '#d97706';
         });
         
         link.addEventListener('mouseleave', () => {
             link.style.transform = 'translateX(0)';
-            link.style.color = '#667eea';
+            link.style.color = '#f59e0b';
         });
         
         li.appendChild(link);
@@ -297,4 +297,4 @@ document.addEventListener('keydown', (e) => {
     }
 });
 
-console.log('🎨 Modern Journal.Kim loaded successfully!');
+console.log('🎨 Modern Beejournal loaded successfully!');
