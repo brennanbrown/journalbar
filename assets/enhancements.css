@@ -10,10 +10,10 @@
     left: 0;
     width: 0%;
     height: 4px;
-    background: linear-gradient(90deg, #667eea, #764ba2, #f5576c, #4facfe);
+    background: linear-gradient(90deg, #f59e0b, #d97706, #fbbf24, #fde68a);
     z-index: 9999;
     transition: width 0.1s ease;
-    box-shadow: 0 2px 10px rgba(102, 126, 234, 0.5);
+    box-shadow: 0 2px 10px rgba(245, 158, 11, 0.5);
 }
 
 /* Animated scroll-to-top button */
@@ -23,7 +23,7 @@
     right: 2rem;
     width: 50px;
     height: 50px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -32,7 +32,7 @@
     opacity: 0;
     visibility: hidden;
     transition: all 0.3s ease;
-    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+    box-shadow: 0 4px 15px rgba(245, 158, 11, 0.4);
     z-index: 1000;
 }
 
@@ -43,7 +43,7 @@
 
 .scroll-to-top:hover {
     transform: translateY(-5px) scale(1.1);
-    box-shadow: 0 8px 25px rgba(102, 126, 234, 0.6);
+    box-shadow: 0 8px 25px rgba(245, 158, 11, 0.6);
 }
 
 .scroll-to-top::before {
@@ -55,11 +55,11 @@
 
 /* Mini Book CTA Banner */
 .minibook-cta {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
     border-radius: 16px;
     padding: 2.5rem;
     margin: 2rem 0;
-    box-shadow: 0 10px 40px rgba(102, 126, 234, 0.3);
+    box-shadow: 0 10px 40px rgba(245, 158, 11, 0.3);
     position: relative;
     overflow: hidden;
 }
@@ -94,14 +94,14 @@
     color: white;
     margin: 0 0 0.75rem 0;
     font-size: 1.5rem;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
 }
 
 .minibook-cta-text p {
     color: rgba(255, 255, 255, 0.95);
     margin: 0;
     line-height: 1.6;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
 }
 
 .minibook-cta-button {
@@ -110,7 +110,7 @@
     gap: 0.5rem;
     padding: 1rem 2rem;
     background: white;
-    color: #667eea !important;
+    color: #d97706 !important;
     text-decoration: none;
     border-radius: 50px;
     font-weight: 700;
@@ -118,17 +118,17 @@
     transition: all 0.3s ease;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
     white-space: nowrap;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
 }
 
 .minibook-cta-button:visited {
-    color: #667eea !important;
+    color: #d97706 !important;
 }
 
 .minibook-cta-button:hover {
     transform: translateY(-3px);
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
-    color: #764ba2 !important;
+    color: #92400e !important;
 }
 
 /* Responsive CTA */
@@ -205,7 +205,7 @@
     left: 0;
     right: 0;
     height: 4px;
-    background: linear-gradient(90deg, #667eea, #764ba2);
+    background: linear-gradient(90deg, #f59e0b, #d97706);
     transform: scaleX(0);
     transform-origin: left;
     transition: transform 0.3s ease;
@@ -217,33 +217,33 @@
 
 .post-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 12px 24px rgba(102, 126, 234, 0.2);
-    border-color: rgba(102, 126, 234, 0.3);
+    box-shadow: 0 12px 24px rgba(245, 158, 11, 0.2);
+    border-color: rgba(245, 158, 11, 0.3);
 }
 
 .post-card h3 {
     color: #2d3748;
     margin-bottom: 0.75rem;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
 }
 
 .post-card h3 a {
-    color: #667eea;
+    color: #d97706;
     transition: color 0.3s ease;
 }
 
 .post-card h3 a:hover {
-    color: #764ba2;
+    color: #92400e;
 }
 
 .post-card .post-meta {
-    color: #718096;
+    color: #4a5568;
     font-size: 0.85rem;
     margin-bottom: 0.75rem;
     display: flex;
     gap: 0.75rem;
     flex-wrap: wrap;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
 }
 
 .post-card .post-meta span {
@@ -256,23 +256,24 @@
     color: #2d3748;
     line-height: 1.7;
     margin-bottom: 0.75rem;
-    font-family: 'Lora', Georgia, serif;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    font-weight: normal;
 }
 
 .post-card .read-more {
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
-    color: #667eea;
+    color: #333;
     font-weight: 600;
     padding: 0.5rem 1rem;
     border-radius: 50px;
-    background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1));
+    background: linear-gradient(135deg, #f59e0b, #d97706);
     transition: all 0.3s ease;
 }
 
 .post-card .read-more:hover {
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #f59e0b, #d97706);
     color: white;
     transform: translateX(5px);
 }
@@ -291,9 +292,9 @@
 
 .tag-cloud a {
     padding: 0.5rem 1rem;
-    background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1));
+    background: linear-gradient(135deg, rgba(245, 158, 11, 0.12), rgba(217, 119, 6, 0.12));
     border-radius: 50px;
-    color: #667eea;
+    color: #d97706;
     font-size: 0.9rem;
     font-weight: 600;
     transition: all 0.3s ease;
@@ -301,10 +302,10 @@
 }
 
 .tag-cloud a:hover {
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #f59e0b, #d97706);
     color: white;
     transform: scale(1.05);
-    border-color: rgba(102, 126, 234, 0.3);
+    border-color: rgba(245, 158, 11, 0.3);
 }
 
 /* Achievement badges */
@@ -358,13 +359,13 @@
 
 .stat-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 12px 24px rgba(102, 126, 234, 0.2);
+    box-shadow: 0 12px 24px rgba(245, 158, 11, 0.2);
 }
 
 .stat-number {
     font-size: 2.5rem;
     font-weight: 800;
-    background: linear-gradient(135deg, #e6eaff 0%, #e4c9ff 100%);
+    background: linear-gradient(135deg, #d97706 0%, #92400e 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -372,7 +373,7 @@
 }
 
 .stat-label {
-    color: #718096;
+    color: #4a5568;
     font-size: 0.9rem;
     font-weight: 600;
     text-transform: uppercase;
@@ -383,8 +384,8 @@
 .loading-spinner {
     width: 50px;
     height: 50px;
-    border: 4px solid rgba(102, 126, 234, 0.1);
-    border-top-color: #667eea;
+    border: 4px solid rgba(245, 158, 11, 0.15);
+    border-top-color: #f59e0b;
     border-radius: 50%;
     animation: spin 1s linear infinite;
     margin: 2rem auto;
@@ -402,7 +403,7 @@
 
 .tooltip .tooltip-text {
     visibility: hidden;
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #f59e0b, #d97706);
     color: white;
     text-align: center;
     padding: 0.5rem 1rem;
@@ -427,7 +428,7 @@
     margin-left: -5px;
     border-width: 5px;
     border-style: solid;
-    border-color: #764ba2 transparent transparent transparent;
+    border-color: #d97706 transparent transparent transparent;
 }
 
 .tooltip:hover .tooltip-text {
@@ -438,7 +439,7 @@
 /* Animated underline for special links */
 .fancy-link {
     position: relative;
-    color: #667eea;
+    color: #d97706;
     text-decoration: none;
 }
 
@@ -449,7 +450,7 @@
     height: 2px;
     bottom: -2px;
     left: 0;
-    background: linear-gradient(90deg, #667eea, #764ba2);
+    background: linear-gradient(90deg, #f59e0b, #d97706);
     transform: scaleX(0);
     transform-origin: bottom right;
     transition: transform 0.3s ease;
@@ -467,16 +468,16 @@
 
 @keyframes pulse-animation {
     0%, 100% {
-        box-shadow: 0 0 0 0 rgba(102, 126, 234, 0.7);
+        box-shadow: 0 0 0 0 rgba(245, 158, 11, 0.7);
     }
     50% {
-        box-shadow: 0 0 0 20px rgba(102, 126, 234, 0);
+        box-shadow: 0 0 0 20px rgba(245, 158, 11, 0);
     }
 }
 
 /* Gradient text utility */
 .gradient-text {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -538,13 +539,13 @@
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #f59e0b, #d97706);
     color: white;
     transition: all 0.3s ease;
-    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+    box-shadow: 0 4px 15px rgba(245, 158, 11, 0.3);
 }
 
 .share-button:hover {
     transform: translateY(-3px) scale(1.1);
-    box-shadow: 0 6px 20px rgba(102, 126, 234, 0.5);
+    box-shadow: 0 6px 20px rgba(245, 158, 11, 0.5);
 }

@@ -13,7 +13,7 @@
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
   overflow-x: auto;
   position: relative;
-  border: 1px solid rgba(102, 126, 234, 0.2);
+  border: 1px solid rgba(245, 158, 11, 0.25);
 }
 
 .highlight::before {
@@ -23,7 +23,7 @@
   left: 0;
   right: 0;
   height: 3px;
-  background: linear-gradient(90deg, #667eea, #764ba2, #f5576c, #4facfe);
+  background: linear-gradient(90deg, #f59e0b, #d97706, #fbbf24, #fde68a);
   border-radius: 12px 12px 0 0;
 }
 
@@ -99,7 +99,7 @@
 
 /* Headings */
 .highlight .gh {
-  color: #667eea;
+  color: #d97706;
   font-weight: bold;
   text-decoration: underline;
 }
@@ -208,14 +208,14 @@
   color: #6c7a96;
   padding-right: 1rem;
   user-select: none;
-  border-right: 1px solid rgba(102, 126, 234, 0.2);
+  border-right: 1px solid rgba(245, 158, 11, 0.25);
   margin-right: 1rem;
 }
 
 /* Inline code (not in highlight blocks) */
 :not(.highlight) > code {
   background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
-  color: #667eea;
+  color: #d97706;
   padding: 3px 8px;
   border-radius: 4px;
   border: 1px solid #e2e8f0;
@@ -235,12 +235,12 @@
 }
 
 .highlight::-webkit-scrollbar-thumb {
-  background: linear-gradient(90deg, #667eea, #764ba2);
+  background: linear-gradient(90deg, #f59e0b, #d97706);
   border-radius: 4px;
 }
 
 .highlight::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(90deg, #764ba2, #667eea);
+  background: linear-gradient(90deg, #d97706, #f59e0b);
 }
 
 /* Language label (if present) */
@@ -248,8 +248,8 @@
   position: absolute;
   top: 8px;
   right: 12px;
-  background: rgba(102, 126, 234, 0.2);
-  color: #4facfe;
+  background: rgba(245, 158, 11, 0.18);
+  color: #fbbf24;
   padding: 4px 12px;
   border-radius: 4px;
   font-size: 0.75rem;

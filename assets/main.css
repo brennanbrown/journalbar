@@ -1,21 +1,21 @@
 /* ================================
-   MODERN JOURNAL.KIM STYLES
+   MODERN BEEJOURNAL STYLES
    Updated: October 2025
    ================================ */
 
 /* CSS Variables for theming */
 :root {
-    --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    --secondary-gradient: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-    --accent-gradient: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-    --success-gradient: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+    --primary-gradient: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+    --secondary-gradient: linear-gradient(135deg, #fbbf24 0%, #f59e0b 100%);
+    --accent-gradient: linear-gradient(135deg, #fde68a 0%, #fcd34d 100%);
+    --success-gradient: linear-gradient(135deg, #84cc16 0%, #65a30d 100%);
     
-    --primary-color: #667eea;
-    --secondary-color: #f5576c;
-    --accent-color: #00f2fe;
-    --text-dark: #2d3748;
-    --text-light: #718096;
-    --bg-light: #f7fafc;
+    --primary-color: #f59e0b;
+    --secondary-color: #d97706;
+    --accent-color: #fbbf24;
+    --text-dark: #1a202c;
+    --text-light: #4a5568;
+    --bg-light: #ffffff;
     --bg-card: #ffffff;
     --border-color: #e2e8f0;
     
@@ -36,10 +36,12 @@ html {
 
 /* Body enhancements */
 body {
-    background: linear-gradient(to bottom, #f7fafc 0%, #edf2f7 100%);
+    background: #ffffff;
     position: relative;
-    font-family: 'Lora', Georgia, serif;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    font-weight: normal;
     overflow-x: hidden;
+    color: var(--text-dark);
 }
 
 /* Constrain main content width on desktop */
@@ -56,15 +58,15 @@ main {
 /* Animated background pattern - static, no animation */
 body::before {
     content: '';
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
     background: 
-        radial-gradient(circle at 20% 50%, rgba(102, 126, 234, 0.03) 0%, transparent 50%),
-        radial-gradient(circle at 80% 80%, rgba(245, 87, 108, 0.03) 0%, transparent 50%),
-        radial-gradient(circle at 40% 20%, rgba(0, 242, 254, 0.03) 0%, transparent 50%);
+        radial-gradient(circle at 20% 50%, rgba(245, 158, 11, 0.03) 0%, transparent 50%),
+        radial-gradient(circle at 80% 80%, rgba(217, 119, 6, 0.02) 0%, transparent 50%),
+        radial-gradient(circle at 40% 20%, rgba(252, 211, 77, 0.03) 0%, transparent 50%);
     z-index: -1;
 }
 
@@ -73,7 +75,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
     letter-spacing: -0.02em;
     line-height: 1.2;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
 }
 
 h1 {
@@ -100,7 +102,7 @@ h2::after {
 
 /* Text selections */
 ::selection {
-    background: rgba(102, 126, 234, 0.3);
+    background: rgba(245, 158, 11, 0.3);
     color: var(--text-dark);
 }
 
@@ -129,11 +131,11 @@ a:hover::before {
 }
 
 a:hover {
-    color: #764ba2;
+    color: #d97706;
 }
 
 a:visited {
-    color: #764ba2;
+    color: #d97706;
 }
 
 /* Fix visited links in navigation and badges */
@@ -147,21 +149,22 @@ a:visited {
 
 /* Mark/Highlight */
 mark {
-    background: linear-gradient(120deg, rgba(102, 126, 234, 0.2) 0%, rgba(245, 87, 108, 0.2) 100%);
+    background: linear-gradient(120deg, rgba(253, 230, 138, 0.8) 0%, rgba(245, 158, 11, 0.6) 100%);
     padding: 2px 6px;
     border-radius: 3px;
     font-weight: 500;
+    color: #1a202c;
 }
 
 /* Code blocks */
 code {
     font-size: 0.9rem;
-    background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
+    background: #f8fafc;
     padding: 3px 8px;
     border-radius: 4px;
-    border: 1px solid var(--border-color);
+    border: 1px solid #e2e8f0;
     font-family: 'Monaco', 'Menlo', 'Consolas', monospace;
-    color: var(--primary-color);
+    color: #d97706;
     font-weight: 500;
 }
 
@@ -214,7 +217,7 @@ header {
 }
 
 #title {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
 }
 
 #title a {
@@ -271,7 +274,7 @@ header {
     background: var(--bg-card);
     border-radius: 12px;
     box-shadow: var(--shadow-sm);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
 }
 
 #navigation a {
@@ -372,13 +375,12 @@ header {
 
 /* Footer */
 footer {
+    margin-top: 4rem;
+    padding: 2rem 0;
     text-align: center;
-    padding: 1.5rem 1rem;
-    margin: 2rem 0 1rem;
-    background: var(--bg-card);
-    border-radius: 12px;
-    box-shadow: var(--shadow-sm);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: var(--text-light);
+    border-top: 1px solid var(--border-color);
+    font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
 }
 
 footer a {
