@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
 
 	spec.summary       = "A minimalist, bare-bones theme for Jekyll only using the Water.css framework while still following the best practices for accessibility and search-engine optimization."
 	spec.homepage      = "https://github.com/brennanbrown/watery"
-	spec.license       = "MIT"
+	spec.license       = "AGPL-3.0"
 
 	spec.metadata["plugin_type"] = "theme"
 
