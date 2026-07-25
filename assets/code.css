@@ -1,30 +1,17 @@
 /* ================================
-   MODERN CODE SYNTAX HIGHLIGHTING
-   Updated: October 2025
-   Theme: Modern Vibrant
+   CODE SYNTAX HIGHLIGHTING
+   Classic flat theme
    ================================ */
 
 /* Code block container */
 .highlight {
-  background: linear-gradient(135deg, #1e1e2e 0%, #27273f 100%);
-  border-radius: 12px;
-  padding: 1.5rem;
-  margin: 2rem 0;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  background: #f8fafc;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
   overflow-x: auto;
   position: relative;
-  border: 1px solid rgba(245, 158, 11, 0.25);
-}
-
-.highlight::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 3px;
-  background: linear-gradient(90deg, #f59e0b, #d97706, #fbbf24, #fde68a);
-  border-radius: 12px 12px 0 0;
+  border-left: 4px solid #d97706;
+  font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
 }
 
 .highlight table td {
@@ -39,14 +26,13 @@
 /* Base text */
 .highlight,
 .highlight .w {
-  color: #e5e9f0;
+  color: #1a202c;
 }
 
 /* Errors */
 .highlight .err {
-  color: #ff6b6b;
-  background-color: rgba(255, 107, 107, 0.1);
-  border-radius: 3px;
+  color: #c53030;
+  background-color: rgba(197, 48, 48, 0.1);
   padding: 2px 4px;
 }
 
@@ -56,45 +42,45 @@
 .highlight .cm,
 .highlight .c1,
 .highlight .cs {
-  color: #6c7a96;
+  color: #718096;
   font-style: italic;
 }
 
 /* Preprocessor */
 .highlight .cp {
-  color: #f093fb;
+  color: #97266d;
   font-weight: 600;
 }
 
 /* Tags */
 .highlight .nt {
-  color: #4facfe;
+  color: #2c5282;
   font-weight: 600;
 }
 
 /* Operators */
 .highlight .o,
 .highlight .ow {
-  color: #f5576c;
+  color: #b7791f;
   font-weight: 600;
 }
 
 /* Punctuation */
 .highlight .p,
 .highlight .pi {
-  color: #a8b5d1;
+  color: #4a5568;
 }
 
 /* Insertions */
 .highlight .gi {
-  color: #43e97b;
-  background-color: rgba(67, 233, 123, 0.1);
+  color: #276749;
+  background-color: rgba(39, 103, 73, 0.1);
 }
 
 /* Deletions */
 .highlight .gd {
-  color: #ff6b6b;
-  background-color: rgba(255, 107, 107, 0.1);
+  color: #c53030;
+  background-color: rgba(197, 48, 48, 0.1);
 }
 
 /* Headings */
@@ -110,22 +96,22 @@
 .highlight .kp,
 .highlight .kr,
 .highlight .kv {
-  color: #bb9af7;
+  color: #6b46c1;
   font-weight: 600;
 }
 
 .highlight .kc {
-  color: #ff9e64;
+  color: #b7791f;
   font-weight: 600;
 }
 
 .highlight .kt {
-  color: #4facfe;
+  color: #2c5282;
   font-weight: 600;
 }
 
 .highlight .kd {
-  color: #f5576c;
+  color: #b7791f;
   font-weight: 600;
 }
 
@@ -138,38 +124,38 @@
 .highlight .sh,
 .highlight .sx,
 .highlight .s1 {
-  color: #43e97b;
+  color: #276749;
 }
 
 .highlight .sr {
-  color: #00f2fe;
+  color: #2c5282;
 }
 
 .highlight .si {
-  color: #f093fb;
+  color: #97266d;
 }
 
 .highlight .se {
-  color: #ff9e64;
+  color: #b7791f;
   font-weight: 600;
 }
 
 /* Names */
 .highlight .nn {
-  color: #f093fb;
+  color: #97266d;
 }
 
 .highlight .nc {
-  color: #4facfe;
+  color: #2c5282;
   font-weight: 600;
 }
 
 .highlight .no {
-  color: #ff9e64;
+  color: #b7791f;
 }
 
 .highlight .na {
-  color: #00f2fe;
+  color: #2c5282;
 }
 
 /* Numbers */
@@ -181,18 +167,17 @@
 .highlight .mo,
 .highlight .mb,
 .highlight .mx {
-  color: #ff9e64;
-  font-weight: 500;
+  color: #b7791f;
 }
 
 /* Symbols */
 .highlight .ss {
-  color: #43e97b;
+  color: #276749;
 }
 
 /* Functions */
 .highlight .nf {
-  color: #00f2fe;
+  color: #2c5282;
   font-weight: 600;
 }
 
@@ -200,47 +185,26 @@
 .highlight .nv,
 .highlight .nb,
 .highlight .bp {
-  color: #4facfe;
+  color: #2c5282;
 }
 
 /* Line numbers */
 .highlight .lineno {
-  color: #6c7a96;
+  color: #718096;
   padding-right: 1rem;
   user-select: none;
-  border-right: 1px solid rgba(245, 158, 11, 0.25);
+  border-right: 1px solid #e2e8f0;
   margin-right: 1rem;
 }
 
 /* Inline code (not in highlight blocks) */
-:not(.highlight) > code {
-  background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
+:not(.highlight)>code {
+  background: #f8fafc;
   color: #d97706;
-  padding: 3px 8px;
-  border-radius: 4px;
+  padding: 2px 6px;
   border: 1px solid #e2e8f0;
-  font-family: 'Monaco', 'Menlo', 'Consolas', 'Courier New', monospace;
+  font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
   font-size: 0.9em;
-  font-weight: 600;
-}
-
-/* Code block scrollbar styling */
-.highlight::-webkit-scrollbar {
-  height: 8px;
-}
-
-.highlight::-webkit-scrollbar-track {
-  background: rgba(0, 0, 0, 0.1);
-  border-radius: 4px;
-}
-
-.highlight::-webkit-scrollbar-thumb {
-  background: linear-gradient(90deg, #f59e0b, #d97706);
-  border-radius: 4px;
-}
-
-.highlight::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(90deg, #d97706, #f59e0b);
 }
 
 /* Language label (if present) */
@@ -248,10 +212,9 @@
   position: absolute;
   top: 8px;
   right: 12px;
-  background: rgba(245, 158, 11, 0.18);
-  color: #fbbf24;
+  background: #fde68a;
+  color: #92400e;
   padding: 4px 12px;
-  border-radius: 4px;
   font-size: 0.75rem;
   font-weight: 600;
   text-transform: uppercase;

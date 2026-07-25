@@ -1,46 +1,29 @@
 /* ================================
-   MODERN BEEJOURNAL STYLES
-   Updated: October 2025
+   BEEJOURNAL STYLES
+   Classic flat design, yellow accent
    ================================ */
 
 /* CSS Variables for theming */
 :root {
-    --primary-gradient: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
-    --secondary-gradient: linear-gradient(135deg, #fbbf24 0%, #f59e0b 100%);
-    --accent-gradient: linear-gradient(135deg, #fde68a 0%, #fcd34d 100%);
-    --success-gradient: linear-gradient(135deg, #84cc16 0%, #65a30d 100%);
-    
-    --primary-color: #f59e0b;
-    --secondary-color: #d97706;
-    --accent-color: #fbbf24;
+    --primary-color: #d97706;
+    --secondary-color: #b45309;
+    --accent-color: #fde68a;
+    --bg-highlight: #fef3c7;
     --text-dark: #1a202c;
     --text-light: #4a5568;
     --bg-light: #ffffff;
     --bg-card: #ffffff;
     --border-color: #e2e8f0;
-    
-    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.12);
-    --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
-    --shadow-lg: 0 10px 20px rgba(0, 0, 0, 0.15);
-    --shadow-xl: 0 20px 40px rgba(0, 0, 0, 0.2);
-    
-    --transition-fast: 0.15s ease;
-    --transition-base: 0.3s ease;
-    --transition-slow: 0.5s ease;
-}
 
-/* Smooth scrolling */
-html {
-    scroll-behavior: smooth;
+    --transition-fast: 0.15s ease;
+    --transition-base: 0.2s ease;
 }
 
 /* Body enhancements */
 body {
     background: #ffffff;
-    position: relative;
     font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
     font-weight: normal;
-    overflow-x: hidden;
     color: var(--text-dark);
 }
 
@@ -55,27 +38,16 @@ main {
     padding: 0 1rem;
 }
 
-/* Animated background pattern - static, no animation */
-body::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: 
-        radial-gradient(circle at 20% 50%, rgba(245, 158, 11, 0.03) 0%, transparent 50%),
-        radial-gradient(circle at 80% 80%, rgba(217, 119, 6, 0.02) 0%, transparent 50%),
-        radial-gradient(circle at 40% 20%, rgba(252, 211, 77, 0.03) 0%, transparent 50%);
-    z-index: -1;
-}
-
 /* Typography */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-weight: 700;
-    letter-spacing: -0.02em;
     line-height: 1.2;
-    font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
 }
 
 h1 {
@@ -84,58 +56,30 @@ h1 {
 
 h2 {
     color: var(--text-dark);
-    position: relative;
+    border-bottom: 3px solid var(--primary-color);
     padding-bottom: 0.5rem;
+    display: inline-block;
 }
-
-h2::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 60px;
-    height: 3px;
-    background: var(--primary-gradient);
-    border-radius: 2px;
-}
-
 
 /* Text selections */
 ::selection {
-    background: rgba(245, 158, 11, 0.3);
+    background: var(--accent-color);
     color: var(--text-dark);
 }
 
 /* Links */
 a {
     color: var(--primary-color);
-    text-decoration: none;
-    position: relative;
+    text-decoration: underline;
     transition: color var(--transition-base);
-    border-bottom: 2px solid transparent;
-}
-
-a::before {
-    content: '';
-    position: absolute;
-    width: 0;
-    height: 2px;
-    bottom: -2px;
-    left: 0;
-    background: var(--primary-gradient);
-    transition: width var(--transition-base);
-}
-
-a:hover::before {
-    width: 100%;
 }
 
 a:hover {
-    color: #d97706;
+    color: var(--secondary-color);
 }
 
 a:visited {
-    color: #d97706;
+    color: var(--secondary-color);
 }
 
 /* Fix visited links in navigation and badges */
@@ -149,9 +93,8 @@ a:visited {
 
 /* Mark/Highlight */
 mark {
-    background: linear-gradient(120deg, rgba(253, 230, 138, 0.8) 0%, rgba(245, 158, 11, 0.6) 100%);
+    background: var(--bg-highlight);
     padding: 2px 6px;
-    border-radius: 3px;
     font-weight: 500;
     color: #1a202c;
 }
@@ -160,50 +103,26 @@ mark {
 code {
     font-size: 0.9rem;
     background: #f8fafc;
-    padding: 3px 8px;
-    border-radius: 4px;
-    border: 1px solid #e2e8f0;
-    font-family: 'Monaco', 'Menlo', 'Consolas', monospace;
-    color: #d97706;
-    font-weight: 500;
+    padding: 2px 6px;
+    border: 1px solid var(--border-color);
+    font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+    color: var(--secondary-color);
 }
 
 pre code {
     display: block;
     padding: 1.5rem;
     overflow-x: auto;
-    box-shadow: var(--shadow-sm);
     border-left: 4px solid var(--primary-color);
 }
 
-/* Blockquotes - Modern card style */
+/* Blockquotes - classic card style */
 blockquote {
-    background: var(--bg-card);
-    border-left: 4px solid transparent;
-    border-image: var(--primary-gradient) 1;
+    background: var(--bg-highlight);
+    border-left: 4px solid var(--primary-color);
     padding: 1.25rem 1.25rem 1.25rem 1.75rem;
     margin: 1.5rem 0;
     font-style: italic;
-    box-shadow: var(--shadow-md);
-    border-radius: 8px;
-    position: relative;
-    transition: transform var(--transition-base), box-shadow var(--transition-base);
-}
-
-blockquote::before {
-    content: '"';
-    position: absolute;
-    top: -10px;
-    left: 20px;
-    font-size: 4rem;
-    color: var(--primary-color);
-    opacity: 0.2;
-    font-family: Georgia, serif;
-}
-
-blockquote:hover {
-    transform: translateY(-3px);
-    box-shadow: var(--shadow-lg);
 }
 
 /* Header styles */
@@ -216,21 +135,13 @@ header {
     margin-bottom: 1rem;
 }
 
-#title {
-    font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
-}
-
 #title a {
-    background: var(--primary-gradient);
+    background: var(--secondary-color);
     color: white !important;
     text-decoration: none;
-    padding: 8px 20px;
-    border-radius: 50px;
+    padding: 6px 14px;
     display: inline-block;
-    box-shadow: var(--shadow-md);
-    transition: transform var(--transition-base), box-shadow var(--transition-base);
     font-weight: 700;
-    letter-spacing: 0.02em;
 }
 
 #title a:visited {
@@ -238,8 +149,7 @@ header {
 }
 
 #title a:hover {
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-lg);
+    background: var(--primary-color);
 }
 
 /* Quote section */
@@ -249,21 +159,8 @@ header {
     font-size: 1rem;
     text-align: center;
     padding: 1rem;
-    background: var(--bg-card);
-    border-radius: 12px;
-    box-shadow: var(--shadow-md);
-    position: relative;
-    overflow: hidden;
-}
-
-#quote::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 3px;
-    background: var(--primary-gradient);
+    background: var(--bg-highlight);
+    border-top: 3px solid var(--primary-color);
 }
 
 /* Navigation */
@@ -271,53 +168,33 @@ header {
     text-align: center;
     margin: 1rem 0;
     padding: 0.75rem;
-    background: var(--bg-card);
-    border-radius: 12px;
-    box-shadow: var(--shadow-sm);
-    font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
 }
 
 #navigation a {
     font-weight: 600;
     font-size: 0.95rem;
-    padding: 0.4rem 0.8rem;
+    padding: 0.2rem 0.5rem;
     margin: 0.2rem;
     display: inline-block;
-    color: var(--text-dark);
-    border-radius: 8px;
-    transition: all var(--transition-base);
-    position: relative;
-}
-
-#navigation a::before {
-    display: none; /* Remove underline animation for nav */
+    color: var(--primary-color);
 }
 
 #navigation a:hover {
-    background: var(--primary-gradient);
-    color: white;
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-md);
+    color: var(--secondary-color);
 }
 
 /* Site intro */
 .site-intro {
-    background: var(--bg-card);
-    border-left: 4px solid transparent;
-    border-image: var(--accent-gradient) 1;
+    background: var(--bg-highlight);
+    border-left: 4px solid var(--primary-color);
     padding: 1.25rem 1.5rem;
     font-style: italic;
     margin: 1rem 0;
-    border-radius: 8px;
-    box-shadow: var(--shadow-sm);
 }
 
 /* Post content */
 .post {
-    background: var(--bg-card);
-    padding: 1.5rem;
-    border-radius: 12px;
-    box-shadow: var(--shadow-md);
+    padding: 0.5rem 0;
     margin: 1rem 0;
 }
 
@@ -328,16 +205,8 @@ header {
 }
 
 .post img {
-    border-radius: 8px;
-    box-shadow: var(--shadow-md);
-    transition: transform var(--transition-base), box-shadow var(--transition-base);
     max-width: 100%;
     height: auto;
-}
-
-.post img:hover {
-    transform: scale(1.02);
-    box-shadow: var(--shadow-lg);
 }
 
 /* Pagination */
@@ -345,32 +214,20 @@ header {
     text-align: center;
     font-size: 1rem;
     margin: 2rem 0;
-    padding: 1.5rem;
-    background: var(--bg-card);
-    border-radius: 12px;
-    box-shadow: var(--shadow-sm);
+    padding: 1rem 0;
 }
 
 #pages a {
     display: inline-block;
-    padding: 0.5rem 1rem;
+    padding: 0.4rem 0.8rem;
     margin: 0.25rem;
-    background: var(--primary-gradient);
-    color: white !important;
+    color: var(--primary-color);
     font-weight: 600;
-    border-radius: 50px;
-    transition: all var(--transition-base);
-    box-shadow: var(--shadow-sm);
-    border-bottom: none;
-}
-
-#pages a::before {
-    display: none;
+    text-decoration: underline;
 }
 
 #pages a:hover {
-    transform: translateY(-3px);
-    box-shadow: var(--shadow-lg);
+    color: var(--secondary-color);
 }
 
 /* Footer */
@@ -380,7 +237,6 @@ footer {
     text-align: center;
     color: var(--text-light);
     border-top: 1px solid var(--border-color);
-    font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
 }
 
 footer a {
@@ -391,33 +247,25 @@ footer a {
 /* HR styling */
 hr {
     border: none;
-    height: 2px;
-    background: linear-gradient(to right, transparent, var(--primary-color), transparent);
+    border-top: 2px solid var(--accent-color);
     margin: 2rem 0;
-    opacity: 0.3;
-}
-
-/* Post list items - removed translateX on hover */
-article.post {
-    transition: transform var(--transition-base);
 }
 
 /* Badges and tags */
-.tag, .badge {
+.tag,
+.badge {
     display: inline-block;
     padding: 0.25rem 0.75rem;
-    background: var(--primary-gradient);
+    background: var(--primary-color);
     color: white;
-    border-radius: 50px;
     font-size: 0.85rem;
     font-weight: 600;
     margin: 0.25rem;
-    box-shadow: var(--shadow-sm);
-    transition: transform var(--transition-fast);
 }
 
-.tag:hover, .badge:hover {
-    transform: scale(1.05);
+.tag:hover,
+.badge:hover {
+    background: var(--secondary-color);
 }
 
 /* ACCESSIBILITY */
@@ -434,7 +282,7 @@ a.skip-main {
 a.skip-main:focus,
 a.skip-main:active {
     color: #fff;
-    background: var(--primary-gradient);
+    background: var(--primary-color);
     left: auto;
     top: auto;
     width: auto;
@@ -442,22 +290,18 @@ a.skip-main:active {
     overflow: auto;
     margin: 10px auto;
     padding: 1rem 2rem;
-    border-radius: 50px;
     border: 3px solid var(--accent-color);
     text-align: center;
     font-size: 1.2em;
     font-weight: 700;
     z-index: 999;
-    box-shadow: var(--shadow-xl);
-}
-
-/* Loading animation for images */
-img {
-    animation: fadeIn 0.5s ease-out;
 }
 
 /* Smooth transitions for all interactive elements */
-button, input, select, textarea {
+button,
+input,
+select,
+textarea {
     transition: all var(--transition-base);
 }
 
@@ -475,7 +319,12 @@ button, input, select, textarea {
 }
 
 /* Ensure media and overflow-prone elements respect viewport */
-img, video, iframe, table, pre, code {
+img,
+video,
+iframe,
+table,
+pre,
+code {
     max-width: 100%;
 }
 
@@ -490,73 +339,68 @@ table {
     body {
         padding: 0 0.5rem;
     }
-    
+
     #navigation {
-        font-size: 0; /* Hide text nodes (slashes) */
+        font-size: 0;
+        /* Hide text nodes (slashes) */
     }
-    
+
     #navigation a {
-        font-size: 0.95rem; /* Restore font size for links */
+        font-size: 0.95rem;
+        /* Restore font size for links */
         margin: 0.25rem;
     }
-    
+
     .post {
         padding: 1rem;
         margin: 0.5rem 0;
     }
-    
+
     #quote {
         font-size: 0.95rem;
         padding: 1rem;
         max-width: 100%;
     }
-    
+
     h1 {
         font-size: 1.8rem;
         word-break: break-word;
     }
-    
+
     h2 {
         font-size: 1.5rem;
     }
-    
+
     /* Ensure pre/code blocks don't overflow */
     pre {
         max-width: 100%;
         overflow-x: auto;
     }
-    
+
     pre code {
         white-space: pre-wrap;
         word-break: break-all;
     }
-    
+
     /* Fix long links */
     a {
         word-break: break-word;
         overflow-wrap: anywhere;
     }
-    
+
     /* Better blockquote mobile handling */
     blockquote {
         padding: 1rem;
         margin: 1rem 0;
     }
-    
-    blockquote::before {
-        font-size: 2.5rem;
-        left: 10px;
-    }
 }
 
 /* Print styles */
 @media print {
-    body::before {
-        display: none;
-    }
-    
-    .post, blockquote, #quote {
-        box-shadow: none;
+
+    .post,
+    blockquote,
+    #quote {
         border: 1px solid #ccc;
     }
 }
