@@ -175,7 +175,7 @@
 
 **Personal Projects:**
 - Built **personal web portfolio** from scratch in 3 weeks
-- Migrated blog from journal.bar to beejournal.netlify.app
+- Migrated blog to beejournal.netlify.app
 - Explored Jekyll, then Eleventy for site generation
 - Developed comprehensive **Notion workspace** for curation
 - Created **Commonplace** system for knowledge management

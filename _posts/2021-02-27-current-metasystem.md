@@ -11,7 +11,7 @@ comment: true
 
 **Week Fifty-one!** I'm recovering from a minor surgery and just settling in. Overall, things are going good. I'm finally diving into [Eleventy](https://www.11ty.dev/) which I wish I had done sooner! It's similar to Jekyll, but a lot more powerful and flexible, and although relatively niche right now, I see a bright future ahead. I'm planning to migrate my Jekyll projects to it.
 
-Anyways, back to Bees, it's been since entry [**#25**](https://journal.kim/jam-gardens) that I went over all of my systems entirely! And since this is entry #51, perhaps I'll make it a bi-annual sort of thing. (Would data points be too sparse to make that a feasible Beeminder? Hah!)
+Anyways, back to Bees, it's been since entry [**#25**](https://beejournal.netlify.app/jam-gardens) that I went over all of my systems entirely! And since this is entry #51, perhaps I'll make it a bi-annual sort of thing. (Would data points be too sparse to make that a feasible Beeminder? Hah!)
 
 I apologize for the following redundancy, however I felt it was a good idea to just have a single, cohesive reference that I can add to or modify easily. Each system has a explanation, as well as an update on how progress is going:
 
@@ -36,7 +36,7 @@ I apologize for the following redundancy, however I felt it was a good idea to j
     **_Metrics:_** Tracking the amount of [blog posts](https://blog.brennanbrown.ca/) that I write, with a current rate of 1 post/week. Data added via IFTTT and Medium.\
     **_Current Progress:_** I've written a bunch of more blog posts since I started tracking this again last year, around two dozen that I'm proud of! Recently, though, I've been deleting  posts that I've been writing because I feel as though they haven't been up to snuff, so I'm going to be lowering the rate to 2/month.
   - **[🟢📝 Journalbar](https://beeminder.com/brennanbrown/journalbar)**:\
-    **_Metrics:_** Tracking the amount of posts that I add to [*Journal.Kim*](https://journal.kim) with a rate of 1 entry/week. Data added manually.\
+    **_Metrics:_** Tracking the amount of posts that I add to [beejournal.netlify.app](https://beejournal.netlify.app) with a rate of 1 entry/week. Data added manually.\
     **_Current Progress:_** I'm often late in writing these updates, but I still manage to get out on per week, and it's really enjoyable!
   - **[🔴🔁 Morning Pages](https://beeminder.com/morningpages2)**:\
     **_Metrics:_** Tracking the amount of words that I write in a Google Doc, with a deadline of 11am instead of midnight like all of my other goals, and a rate of 250 words/day. Data added via [URLMinder](https://www.beeminder.com/urlminder).\

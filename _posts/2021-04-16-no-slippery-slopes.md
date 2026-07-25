@@ -9,7 +9,7 @@ comment: true
 layout: post
 ---
 
-**Week Fifty-eight!** I've been largely working on the redesign of my personal website this week--and as I quoted Carl Sagan in [entry #24](https://journal.kim/apple-pie), to make anything from scratch, you must first invent the universe. Which as been a little overwhelming for me. But I have finally begun to find my footing in the work.
+**Week Fifty-eight!** I've been largely working on the redesign of my personal website this week--and as I quoted Carl Sagan in [entry #24](https://beejournal.netlify.app/apple-pie), to make anything from scratch, you must first invent the universe. Which as been a little overwhelming for me. But I have finally begun to find my footing in the work.
 
 I just have a bunch of little things and projects that are scattered across the Internet that I want to consolidate and unify in a pleasing manner that's also speedy and accessible--which also parallels my non-digital life pretty well, too. I did set up a [little site](https://brennanbrown.github.io) to show off all the open-source coding work I've been doing for the past year. :)
 

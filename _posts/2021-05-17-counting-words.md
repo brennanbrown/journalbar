@@ -19,4 +19,4 @@ Also, a new system! I haven't added one for a long time, now. So, [**/obsidian**
 
 I know that I still need to start using Google Docs as well for my **/morning-pages** goal which I still have on the backburner. As well as set up the script so I can start tracking my chess playing as well. So many things to dooooo. 
 
-Also, totally unrelated, but This American Life's episode this week was all about [daily routines and rituals](https://www.thisamericanlife.org/737/the-daily). One quote that stuck out to me was that "some days the ritual doesn't matter much, some days it's full of meaning. The important part is that it's done everyday"--echoing the Bojack Horseman quote on top of my [Bee Journal website](https://journal.kim).
+Also, totally unrelated, but This American Life's episode this week was all about [daily routines and rituals](https://www.thisamericanlife.org/737/the-daily). One quote that stuck out to me was that "some days the ritual doesn't matter much, some days it's full of meaning. The important part is that it's done everyday"--echoing the Bojack Horseman quote on top of my [Bee Journal website](https://beejournal.netlify.app).

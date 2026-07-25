@@ -11,7 +11,7 @@ comment: true
 
 **Week Fifty!** Of course, late again. Although this time it was only partly my fault, as I had a minor medical emergency and a rather surprise moving out. I've been diligently keeping up with my Beeminders, though! Only one derailment, **/photos**. And also a non-legit derail on **/distraction**, sadly adding my first datapoint to **/derail**.
 
-But overall, I'm feeling really good and I'm excited to start doing more good work. [**Journal.Kim/**](https://journal.kim) is now online with a bit of a new look! If you're curious, here's [a pic](https://duck-project.herokuapp.com/artwork/jb.jpg) of how it looked around last year! It is really great to have a little blog that you can maintain independently, and it's helped teach me a lot of things about going forth with bigger projects.
+But overall, I'm feeling really good and I'm excited to start doing more good work. [**beejournal.netlify.app**](https://beejournal.netlify.app) is now online with a bit of a new look! If you're curious, here's [a pic](https://duck-project.herokuapp.com/artwork/jb.jpg) of how it looked around last year! It is really great to have a little blog that you can maintain independently, and it's helped teach me a lot of things about going forth with bigger projects.
 
 I also did the much-needed housekeeping of updating datapoints to everything! Usually, when I add data for **/books** or **/courses**, I just add the digit without adding the note of what specifically reading or learning. It's kind of satisfying to go back and review each different thing all at once. I also added an auto-ratchet to **/meditation** to help keep me more consistent with it, since I've been getting good at doing it consistently.
 
