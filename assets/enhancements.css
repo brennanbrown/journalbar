@@ -54,96 +54,19 @@
 .minibook-cta {
     background: #fde68a;
     border-left: 4px solid #d97706;
-    padding: 2rem;
-    margin: 2rem 0;
+    padding: 0.75rem 1rem;
+    margin: 1.5rem 0;
 }
 
-.minibook-cta-content {
-    display: grid;
-    grid-template-columns: auto 1fr auto;
-    gap: 2rem;
-    align-items: center;
-}
-
-.minibook-cta-icon {
-    font-size: 3rem;
-    line-height: 1;
-}
-
-.minibook-cta-text h3 {
-    color: #1a202c;
-    margin: 0 0 0.75rem 0;
-    font-size: 1.5rem;
-}
-
-.minibook-cta-text p {
-    color: #1a202c;
-    margin: 0;
-    line-height: 1.6;
-}
-
-.minibook-cta-button {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.75rem 1.5rem;
-    background: #d97706;
-    color: white !important;
+.minibook-cta a {
+    color: #92400e;
     text-decoration: none;
-    font-weight: 700;
-    white-space: nowrap;
+    font-weight: 600;
+    font-size: 1rem;
 }
 
-.minibook-cta-button:visited {
-    color: white !important;
-}
-
-.minibook-cta-button:hover {
-    background: #b45309;
-}
-
-/* Responsive CTA */
-@media (max-width: 768px) {
-    .minibook-cta {
-        padding: 1rem;
-        margin: 1rem 0;
-    }
-
-    .minibook-cta-content {
-        grid-template-columns: 1fr;
-        text-align: center;
-        gap: 1rem;
-    }
-
-    .minibook-cta-icon {
-        font-size: 2.5rem;
-    }
-
-    .minibook-cta-text h3 {
-        font-size: 1.2rem;
-        word-break: break-word;
-    }
-
-    .minibook-cta-text p {
-        font-size: 0.95rem;
-    }
-
-    .minibook-cta-button {
-        justify-content: center;
-        white-space: normal;
-        padding: 0.75rem 1rem;
-        font-size: 1rem;
-    }
-
-    /* Post cards mobile */
-    .post-card {
-        padding: 1rem;
-        margin: 0.75rem 0;
-    }
-
-    .post-card h3 {
-        font-size: 1.3rem;
-    }
+.minibook-cta a:hover {
+    text-decoration: underline;
 }
 
 /* Post cards on homepage */

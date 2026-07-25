@@ -8,32 +8,28 @@ permalink: /minibook/
 .minibook-container {
     max-width: 800px;
     margin: 0 auto;
-    font-family: 'Lora', Georgia, serif;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
 }
 
 .minibook-hero {
     padding: 3rem 1.5rem;
-    background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+    background: #d97706;
     color: white;
-    border-radius: 16px;
     margin-bottom: 3rem;
-    box-shadow: 0 10px 40px rgba(245, 158, 11, 0.3);
 }
 
 .minibook-hero h1 {
     color: white;
     font-size: 2.5rem;
     margin-bottom: 1rem;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
 }
 
 .minibook-hero .subtitle {
     font-size: 1.3rem;
     color: white;
-    opacity: 1;
     font-weight: 300;
     margin-bottom: 1.5rem;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .minibook-hero .stats {
@@ -44,11 +40,9 @@ permalink: /minibook/
 }
 
 .stat-item {
-    background: rgba(255, 255, 255, 0.25);
+    background: #fde68a;
     padding: 1rem;
-    border-radius: 12px;
-    backdrop-filter: blur(10px);
-    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-left: 4px solid #b45309;
 }
 
 .stat-number {
@@ -56,23 +50,19 @@ permalink: /minibook/
     font-weight: 700;
     display: block;
     margin-bottom: 0.25rem;
-    color: white !important;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    color: #92400e;
 }
 
 .stat-label {
     font-size: 0.9rem;
-    color: white;
-    opacity: 1;
+    color: #78350f;
     font-weight: 500;
 }
 
 .download-section {
-    text-align: center;
     padding: 2rem;
-    background: white;
-    border-radius: 12px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background: #fef3c7;
+    border-left: 4px solid #d97706;
     margin-bottom: 3rem;
 }
 
@@ -82,6 +72,7 @@ permalink: /minibook/
     justify-content: center;
     flex-wrap: wrap;
     margin-top: 1.5rem;
+    text-align: center;
 }
 
 .download-btn {
@@ -89,31 +80,22 @@ permalink: /minibook/
     align-items: center;
     gap: 0.5rem;
     padding: 1rem 2rem;
-    background: linear-gradient(135deg, #f59e0b, #d97706);
+    background: #d97706;
     color: white !important;
     text-decoration: none;
-    border-radius: 50px;
     font-weight: 600;
     font-size: 1.1rem;
-    transition: all 0.3s ease;
-    box-shadow: 0 4px 15px rgba(245, 158, 11, 0.3);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-.download-btn:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 25px rgba(245, 158, 11, 0.5);
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
 }
 
 .download-btn.secondary {
-    background: linear-gradient(135deg, #43e97b, #38f9d7);
+    background: #059669;
 }
 
 .content-section {
     background: white;
     padding: 2.5rem;
-    border-radius: 12px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-left: 4px solid #d97706;
     margin-bottom: 2rem;
 }
 
@@ -121,21 +103,20 @@ permalink: /minibook/
     color: #d97706;
     font-size: 2rem;
     margin-bottom: 1.5rem;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
 }
 
 .content-section h3 {
-    color: #2d3748;
+    color: #1f2937;
     font-size: 1.5rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
 }
 
 .highlight-box {
-    background: linear-gradient(135deg, rgba(245, 158, 11, 0.1), rgba(217, 119, 6, 0.1));
+    background: #fef3c7;
     padding: 1.5rem;
-    border-radius: 12px;
     border-left: 4px solid #d97706;
     margin: 2rem 0;
 }
@@ -148,23 +129,22 @@ permalink: /minibook/
 }
 
 .metric-card {
-    background: linear-gradient(135deg, #f7fafc, #edf2f7);
+    background: #f8fafc;
     padding: 1.5rem;
-    border-radius: 12px;
-    border-top: 3px solid #d97706;
+    border-left: 4px solid #d97706;
 }
 
 .metric-card h4 {
     color: #d97706;
     margin-bottom: 0.5rem;
     font-size: 1.1rem;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
 }
 
 .metric-value {
     font-size: 2rem;
     font-weight: 700;
-    color: #2d3748;
+    color: #1f2937;
     margin-bottom: 0.5rem;
 }
 
@@ -189,15 +169,14 @@ permalink: /minibook/
     top: 0;
     width: 3rem;
     height: 3rem;
-    background: linear-gradient(135deg, #f59e0b, #d97706);
+    background: #d97706;
     color: white;
-    border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
     font-weight: 700;
     font-size: 1.3rem;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
 }
 
 .schedule-list li strong {
@@ -205,17 +184,15 @@ permalink: /minibook/
     color: #d97706;
     font-size: 1.2rem;
     margin-bottom: 0.5rem;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
 }
 
 .quote-box {
-    background: white;
+    background: #fef3c7;
     padding: 2rem;
-    border-radius: 12px;
     border-left: 4px solid #d97706;
     margin: 2rem 0;
     font-style: italic;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
 }
 
 .quote-box p {
@@ -226,16 +203,15 @@ permalink: /minibook/
 
 .quote-author {
     text-align: right;
-    color: #4a5568;
+    color: #4b5563;
     font-weight: 600;
     font-size: 0.95rem;
 }
 
 .key-lessons {
-    background: linear-gradient(135deg, #f59e0b, #d97706);
+    background: #d97706;
     color: white;
     padding: 2.5rem;
-    border-radius: 12px;
     margin: 2rem 0;
 }
 
@@ -264,7 +240,7 @@ permalink: /minibook/
     font-size: 1.3rem;
 }
 
-/* Ensure all strong/bold text in purple sections is white */
+/* Ensure all strong/bold text in yellow sections is white */
 .minibook-hero strong,
 .key-lessons strong {
     color: white !important;
@@ -667,7 +643,7 @@ permalink: /minibook/
 </div>
 
 <!-- Call to Action -->
-<div class="content-section" style="text-align: center; background: linear-gradient(135deg, rgba(245, 158, 11, 0.1), rgba(217, 119, 6, 0.1));">
+<div class="content-section" style="text-align: center; background: #fef3c7;">
     <h2>🚀 Ready to Start Your Own Experiment?</h2>
     <p style="font-size: 1.1rem; margin-bottom: 2rem;">Join the Beeminder community and transform your intentions into action.</p>
     
@@ -689,15 +665,15 @@ permalink: /minibook/
     </p>
     
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-top: 1.5rem;">
-        <a href="https://ko-fi.com/brennan" class="download-btn" target="_blank" rel="noopener" style="background: linear-gradient(135deg, #FF5E5B, #ED4B82);">
+        <a href="https://ko-fi.com/brennan" class="download-btn" target="_blank" rel="noopener" style="background: #dc2626;">
             ☕ Buy Me a Coffee
         </a>
-        <a href="https://github.com/sponsors/brennanbrown" class="download-btn" target="_blank" rel="noopener" style="background: linear-gradient(135deg, #24292e, #586069);">
+        <a href="https://github.com/sponsors/brennanbrown" class="download-btn" target="_blank" rel="noopener" style="background: #1f2937;">
             ❤️ GitHub Sponsors
         </a>
     </div>
     
-    <p style="margin-top: 1.5rem; font-size: 0.95rem; color: #4a5568; font-style: italic;">
+    <p style="margin-top: 1.5rem; font-size: 0.95rem; color: #4b5563; font-style: italic;">
         Your support helps me continue creating free resources and tools for the productivity community.
     </p>
 </div>
